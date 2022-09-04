@@ -5,7 +5,7 @@ A portfolio for NLP class CS 4395
 
 A [document](Overview_of_NLP.pdf) summarizing NLP and my views on it.
 
-##Simple Text Processing
+## Simple Text Processing
 
 This program takes a data sheet with employee information and asks the user to normalize/correct the information as needed. The information is then placed into a dictionary that is finally pickled.
 
