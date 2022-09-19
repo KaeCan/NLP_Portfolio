@@ -27,4 +27,4 @@ This is a program that was used to explore Python and NLTK features in analyzing
 
 The guessing game is essentially a variation of Hangman, where users guess letters and receive a score dependent on how well they did.
 
-You can see the [code here](https://github.com/KaeCan/NLP_Portfolio/blob/main/Word_Guesser/word_guess_game.py) and the [anatomy text here](https://github.com/KaeCan/NLP_Portfolio/blob/main/Word_Guesser/anat19.txt).
+You can see the [code here](https://github.com/KaeCan/NLP_Portfolio/blob/main/Word_Guesser/word_guess_game.py) and the [anatomy text here](https://github.com/KaeCan/NLP_Portfolio/blob/main/Word_Guesser/anat19.txt). I followed this set of [criteria](https://github.com/KaeCan/NLP_Portfolio/blob/main/Word_Guesser/Ch5%20Word%20Guess%20Game.pdf) for grading.
