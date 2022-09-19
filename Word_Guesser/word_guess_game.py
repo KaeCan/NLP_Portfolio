@@ -73,8 +73,8 @@ def game_loop(word_bank):
             score -= 1
             if score > -1:
                 print('Sorry, guess again.', end = ' ')
-
-    print('You failed.')
+    if score == -1:
+        print('You failed.')
     print('\nCurrent Score: ' + str(score))
 
 #processing routine for preparing the word bank to be used in the word guesser
