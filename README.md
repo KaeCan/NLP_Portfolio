@@ -19,3 +19,12 @@ You can see the [code here](https://github.com/KaeCan/NLP_Portfolio/blob/main/Ho
 This is a Python notebook documenting my first experience and usage of NLTK. I explain a few basic methods and use cases, and I provide simple explanations and comparisons on common methods.
 
 You can see the [notebook here](https://github.com/KaeCan/NLP_Portfolio/blob/main/Exploring_NLTK.ipynb).
+
+---
+## Word Guessing Game
+
+This is a program that was used to explore Python and NLTK features in analyzing text files. First, it extracts text from a large file, in this case an entire chapter from an anatomy textbook. Then, lexical analysis and preprocessing will be performed to prepare words for a word guessing game.
+
+The guessing game is essentially a variation of Hangman, where users guess letters and receive a score dependent on how well they did.
+
+You can see the [code here](https://github.com/KaeCan/NLP_Portfolio/blob/main/Word_Guesser/word_guess_game.py) and the [anatomy text here](https://github.com/KaeCan/NLP_Portfolio/blob/main/Word_Guesser/anat19.txt).
