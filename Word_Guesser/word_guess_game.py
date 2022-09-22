@@ -84,6 +84,7 @@ def create_word_bank(raw_tokens):
     tokens, nouns = preprocess(raw_tokens)
 
     #determine word count of each noun
+    #returns a list
     freq_dist = FreqDist(tokens)
 
     #nouns placed in a dictionary {key= frequency : value= [noun]}
