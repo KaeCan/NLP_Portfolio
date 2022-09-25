@@ -32,4 +32,4 @@ You can see the [code here](https://github.com/KaeCan/NLP_Portfolio/blob/main/Wo
 ---
 ## Exploring WordNet
 
-This is a Python notebook documenting my first experience and usage of NLTK's interface with WordNet. I demonstrate a few use cases and how to extract information. You can see the [notebook here]().
+This is a Python notebook documenting my first experience and usage of NLTK's interface with WordNet. I demonstrate a few use cases and how to extract information. You can see the [notebook here](https://github.com/KaeCan/NLP_Portfolio/blob/main/Exploring_WordNet.ipynb).
