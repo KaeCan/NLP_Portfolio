@@ -41,8 +41,8 @@ Italian
 Italian
 French
 Italian
-English
 French
+French
 Italian
 French
 Italian
@@ -89,7 +89,7 @@ English
 English
 French
 Italian
-English
+Italian
 French
 English
 Italian
@@ -241,7 +241,7 @@ French
 French
 Italian
 English
-English
+Italian
 English
 Italian
 English
@@ -259,8 +259,8 @@ Italian
 Italian
 English
 Italian
-English
 Italian
+Italian
 French
 English
 French
@@ -274,9 +274,9 @@ English
 English
 Italian
 French
-Italian
 English
 English
+English
 French
 English
 English
@@ -294,7 +294,7 @@ French
 Italian
 French
 French
-English
+Italian
 Italian
 French
 English

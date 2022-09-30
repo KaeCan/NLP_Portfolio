@@ -61,10 +61,10 @@ else:
         for line in raw_test:
 
             prob_list = []
-
-            eng_prob = compute_prob(line, eng_unigrams, eng_bigrams, len(eng_unigrams))
-            ita_prob = compute_prob(line, ita_unigrams, ita_bigrams, len(ita_unigrams))
-            fre_prob = compute_prob(line, fre_unigrams, fre_bigrams, len(fre_unigrams))
+            total_vocab = len(eng_unigrams) + len(ita_unigrams) + len(fre_unigrams)
+            eng_prob = compute_prob(line, eng_unigrams, eng_bigrams, total_vocab)
+            ita_prob = compute_prob(line, ita_unigrams, ita_bigrams, total_vocab)
+            fre_prob = compute_prob(line, fre_unigrams, fre_bigrams, total_vocab)
 
             prob_list.append(eng_prob)
             prob_list.append(ita_prob)
