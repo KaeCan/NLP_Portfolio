@@ -9,10 +9,7 @@ def process_file(file):
         raw_text = f.read()
     f.close()
 
-    tokens = word_tokenize(raw_text)
-
-    #lowercase ngrams
-    unigrams = [t.lower() for t in tokens]
+    unigrams = word_tokenize(raw_text)
     bigrams = list(ngrams(unigrams, 2))
 
     #dictionaries
@@ -21,7 +18,6 @@ def process_file(file):
 
     #tuple
     return bigram_dict, unigram_dict
-
 
 #-----Main-----
 print('processing English..')
