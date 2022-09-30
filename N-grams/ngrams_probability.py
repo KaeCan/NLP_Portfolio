@@ -1,6 +1,5 @@
 import nltk
 import pickle
-import math
 from nltk.tokenize import word_tokenize
 from nltk.util import ngrams
 
