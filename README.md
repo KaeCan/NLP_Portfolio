@@ -33,3 +33,10 @@ You can see the [code here](https://github.com/KaeCan/NLP_Portfolio/blob/main/Wo
 ## Exploring WordNet
 
 This is a Python notebook documenting my first experience and usage of NLTK's interface with WordNet. I demonstrate a few use cases and how to extract information. You can see the [notebook here](https://github.com/KaeCan/NLP_Portfolio/blob/main/Exploring_WordNet.ipynb).
+
+---
+## Language Model from N-grams
+
+This is a program that builds bigram and unigram dictionaries for English, French, and Italian using some training data. For the dictionaries, the keys are the unigram/bigram text, and the value is the count of the unigram/bigram. I use these dictionaries to calculate the probability of a given line of text's likelihood of being a particular language (English, Italian, or French). I used Laplace smoothing for calculations. I output my program's guesses for each line of text into this file [here](https://github.com/KaeCan/NLP_Portfolio/blob/main/N-grams/probs_output.txt).
+
+There are two programs: the [first](https://github.com/KaeCan/NLP_Portfolio/blob/main/N-grams/ngrams_builder.py) solely builds pickles the unigram and bigram dictionaries for each language (time-consuming), and the [second](https://github.com/KaeCan/NLP_Portfolio/blob/main/N-grams/ngrams_probability.py) will unpickle the dictionaries and actually run calculations and output . **If the pickle files are not present already, the first program must be run before the second.**
