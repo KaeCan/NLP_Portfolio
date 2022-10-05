@@ -8,12 +8,12 @@ from nltk.probability import FreqDist
 #arg: n most important/frequent terms
 #lower-case, remove stopwords and punctuation, and use FreqDist
 #return a list of the words
-def extract_important_terms(n)
+#def extract_important_terms(n):
 
 #arg: list of urls
 #store texts in individual files in /data
 #return nothing
-def scrape_url_text(urls)
+#def scrape_url_text(urls):
     #TODO: get texts from urls
 
     #before saving as a file, clean up the texts
@@ -31,9 +31,8 @@ soup = BeautifulSoup(data)
 n = 0
 url_list = []
 for link in soup.find_all('a'):
-    count++
+    n += 1
     link_str = str(link.get('href'))
-    print(link_str)
     if 'black-hole' in link_str or 'black-holes' in link_str:
         if link_str.startswith('/url?q='):
             link_str = link_str[7:]
@@ -42,10 +41,9 @@ for link in soup.find_all('a'):
             i = link_str.find('&')
             link_str = link_str[:i]
         if link_str.startswith('http') and 'google' not in link_str:
-            list_url.append(link_str)
-            #print(link_str)
-    if n == 20
-        break
+            url_list.append(link_str)
+            print(link_str)
+
 
 #scrape texts from urls
 #get top n most important terms
