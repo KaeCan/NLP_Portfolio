@@ -1,23 +1,58 @@
 from bs4 import BeautifulSoup
+import urllib.request
+import re
 import requests
 import nltk
+import os
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
+from nltk.tokenize import sent_tokenize
 from nltk.probability import FreqDist
 
 #arg: n most important/frequent terms
 #lower-case, remove stopwords and punctuation, and use FreqDist
 #return a list of the words
-#def extract_important_terms(n):
+#TODO: def extract_important_terms(n):
+
+#helper to see if the text on a page is visible to the user
+def visible(element):
+    if element.parent.name in ['style', 'script', '[document]', 'head', 'title']:
+        return False
+    elif re.match('<!--.*-->', str(element.encode('utf-8'))):
+        return False
+    return True
 
 #arg: list of urls
-#store texts in individual files in /data
+#store texts in individual files in \data
 #return nothing
-#def scrape_url_text(urls):
-    #TODO: get texts from urls
+def scrape_url_text(urls):
 
-    #before saving as a file, clean up the texts
+    #create directory to store site texts
+    data_folder = 'data\\'
+    if not os.path.exists(data_folder):
+        os.makedirs(data_folder)
 
+    n = 0
+    for url in urls:
+        try:
+            #retrieve all visible text from url
+            html = urllib.request.urlopen(url)
+            soup = BeautifulSoup(html, 'html.parser')
+            data = soup.findAll(text=True)
+            result = filter(visible, data)
+            temp_list = list(result)        # list from filter
+            temp_str = ' '.join(temp_list)
+
+            #store text in respective file
+            file = 'data\site_' + str(n) + '.txt'
+            with open(file, 'w+') as f:
+                #one sentence per line
+                sents = sent_tokenize(' '.join(temp_str.split()))    #tokenize sentences from website while removing newlines and tabs
+                for sent in sents:
+                    f.write(sent + '\n')
+            n += 1
+        except:
+            print('could not retrieve url: ' + url)
 
 #-----Main-----
 #Topic: Astronomy -> Black Holes
@@ -25,26 +60,31 @@ start_url = "https://www.space.com/15421-black-holes-facts-formation-discovery-s
 r = requests.get(start_url)
 
 data = r.text
-soup = BeautifulSoup(data)
+soup = BeautifulSoup(data, 'html.parser')
 
 #get the first n urls
-n = 0
+n = 20
 url_list = []
 for link in soup.find_all('a'):
-    n += 1
     link_str = str(link.get('href'))
+    #narrow down our search with target keywords and ignoring unwanted urls
     if 'black-hole' in link_str or 'black-holes' in link_str:
-        if link_str.startswith('/url?q='):
+        if link_str.startswith('/url?q='):  #adjust url
             link_str = link_str[7:]
             print('MOD:', link_str)
-        if '&' in link_str:
+        if '&' in link_str:                 #adjust url
             i = link_str.find('&')
             link_str = link_str[:i]
-        if link_str.startswith('http') and 'google' not in link_str:
+        #ignore urls
+        if link_str.startswith('http') and ('google' not in link_str and 'facebook' not in link_str and 'pinterest' not in link_str and 'twitter' not in link_str):
+            n -= 1
             url_list.append(link_str)
             print(link_str)
-
+    if n == 0:
+        break
 
 #scrape texts from urls
-#get top n most important terms
-#send top 10 terms to some knowledge base (e.g. pickle dictionary, SQL)
+scrape_url_text(url_list)
+
+#TODO: get top n most important terms
+#TODO: send top 10 terms to some knowledge base, probably separate program (e.g. pickle dictionary, SQL)

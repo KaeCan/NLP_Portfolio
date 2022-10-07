@@ -1,0 +1,95 @@
+[IE]><script>window.isIE = true</script><!
+[endif] Skip to main content contentType : // xml version="1.0" encoding="utf-8"?
+Generator: Adobe Illustrator 16.2.1, SVG Export Plug-In .
+SVG Version: 6.00 Build 0) Space Search Subscribe RSS (opens in new tab) (opens in new tab) (opens in new tab) (opens in new tab) (opens in new tab) All About Space Magazine (opens in new tab) (opens in new tab) Why subscribe?
+Your monthly guide to stargazing & space science Try a single issue or save on a subscription Issues delivered straight to your door or device From $3.99 (opens in new tab) View Deal (opens in new tab) News Astronomy Spaceflight The Moon Our Solar System Skywatching More Videos Search for LIfe Technology Entertainment Reference SpaceX Expert Voices Forums All Topics Subscribe to "All About Space" Magazine!
+Space.com Store About Us Web Notifications Trending Artemis 1 updates Best Telescopes Best Star Projectors Best Binoculars Lego Star Wars deals Best Drones Russia-Ukraine war space impacts Full Moon Calendar Solar System Planets Night Sky Tonight Calendar Space is supported by its audience.
+When you purchase through links on our site, we may earn an affiliate commission.
+Here’s why you can trust us .
+Home References Science & Astronomy What happens at the center of a black hole?
+By Paul Sutter published 9 February 2022 All of the possibilities are very weird.
+(opens in new tab) (opens in new tab) (opens in new tab) (opens in new tab) (opens in new tab) Artist's illustration of a black hole.
+(Image credit: Shutterstock) Jump to: Planck stars Gravastars Let's go for a spin Additional resources Paul M. Sutter is an astrophysicist at SUNY Stony Brook and the Flatiron Institute, host of Ask a Spaceman and Space Radio , and author of How to Die in Space .
+Sutter contributed this article to Space.com's Expert Voices: Op-Ed & Insights.
+The singularity at the center of a black hole is the ultimate no man's land: a place where matter is compressed down to an infinitely tiny point, and all conceptions of time and space completely break down.
+And it doesn't really exist.
+Something has to replace the singularity, but we're not exactly sure what.
+Let's explore some possibilities.
+Related: Black holes of the universe (images) Planck stars It could be that deep inside a black hole, matter doesn't get squished down to an infinitely tiny point.
+Instead, there could be a smallest possible configuration of matter, the tiniest possible pocket of volume.
+This is called a Planck star , and it's a theoretical possibility envisioned by loop quantum gravity, which is itself a highly hypothetical proposal for creating a quantum version of gravity.
+In the world of loop quantum gravity, space and time are quantized — the universe around us is composed of tiny discrete chunks, but at such an incredibly tiny scale that our movements appear smooth and continuous.
+This theoretical chunkiness of space-time provides two benefits.
+One, it takes the dream of quantum mechanics to its ultimate conclusion, explaining gravity in a natural way.
+And two, it makes it impossible for singularities to form inside black holes.
+As matter squishes down under the immense gravitational weight of a collapsing star, it meets resistance.
+The discreteness of space-time prevents matter from reaching anything smaller than the Planck length (around 1.68 times 10^-35 meters).
+All the material that has ever fallen into the black hole gets compressed into a ball not much bigger than this.
+Perfectly microscopic, but definitely not infinitely tiny.
+This resistance to continued compression eventually forces the material to un-collapse (i.e., explode), making black holes only temporary objects.
+But because of the extreme time dilation effects around black holes, from our perspective in the outside universe it takes billions, even trillions, of years before they go boom.
+So we're all set for now.
+Related: What is gravity?
+Gravastars Another attempt to eradicate the singularity — one that doesn't rely on untested theories of quantum gravity — is known as the gravastar.
+It's such a theoretical concept that my spell checker didn't even recognize the word.
+The difference between a black hole and a gravastar is that, instead of a singularity, the gravastar is filled with dark energy .
+Dark energy is a substance that permeates space-time, causing it to expand outward.
+It sounds like sci-fi, but it's real: dark energy is currently in operation in the larger cosmos, causing our entire universe to accelerate in its expansion.
+As matter falls onto a gravastar, it isn't able to actually penetrate the event horizon (due to all that dark energy on the inside) and therefore just hangs out on the surface.
+But outside that surface, gravastars look and act like normal black holes.
+(A black hole's event horizon is its point of no return — the boundary beyond which nothing, not even light, can escape.)
+However, recent observations of merging black holes with gravitational wave detectors have potentially ruled out the existence of gravastars, because merging gravastars will give a different signal than merging black holes, and outfits like LIGO (the Laser Interferometer Gravitational-Wave Observatory ) and Virgo are getting more and more examples by the day.
+While gravastars aren't exactly a no-go in our universe, they are definitely on thin ice.
+The universe: Big Bang to now in 10 easy steps Related stories: — What are black holes?
+Facts, theories and definition — Einstein's theory of general relativity — The hunt for wormholes: How scientists look for space-time tunnels Let's go for a spin Planck stars and gravastars may have awesome names, but the reality of their existence is in doubt.
+So maybe there's a more mundane explanation for singularities, one that's based on a more nuanced — and realistic — view of black holes in our universe .
+The idea of a single point of infinite density comes from our conception of stationary, non-rotating, uncharged, rather boring black holes.
+Real black holes are much more interesting characters, especially when they spin.
+The spin of a rotating black hole stretches the singularity into a ring.
+And according to the math of Einstein's theory of general relativity (which is the only math we've got), once you pass through the ring singularity, you enter a wormhole and pop out through a white hole (the polar opposite of a black hole, where nothing can enter and matter rushes out at the speed of light) into an entirely new and exciting patch of the universe.
+One challenge: the interiors of rotating black holes are catastrophically unstable.
+And this is according to the very same math that leads to the prediction of the traveling-to-a-new-universe stuff.
+The problem with rotating black holes is that, well, they rotate.
+The singularity, stretched into a ring, is rotating at such a fantastic pace that it has incredible centrifugal force.
+And in general relativity, strong enough centrifugal forces act like antigravity: they push, not pull.
+This creates a boundary inside the black hole, called the inner horizon.
+Outside this region, radiation is falling inward toward the singularity, compelled by the extreme gravitational pull.
+But radiation is pushed by the antigravity near the ring singularity, and the turning point is the inner horizon.
+If you were to encounter the inner horizon, you would face a wall of infinitely energetic radiation — the entire past history of the universe, blasted into your face in less than a blink of an eye.
+The formation of an inner horizon sows the seeds for the destruction of the black hole.
+But rotating black holes certainly exist in our universe, so that tells us that our math is wrong and something funky is going on.
+What's really happening inside a black hole?
+We don't know — and the scary part is that we may never know.
+Additional resources You can learn more about black holes at this NASA explainer page (opens in new tab) .
+This BBC Earth piece has good basic information about black holes as well, and it also describes what would happen to you if you fell into one of these light-gobbling monsters.
+And the Stanford Encyclopedia of Philosophy has a good, detailed breakdown of black holes and singularities.
+Bibliography Rovelli, C. and Vidotto, F, 2014.
+"Planck stars," International Journal of Modern Physics D, Vol.
+23, No.
+12. https://doi.org/10.1142/S0218271814420267 Sakai, N. et al, 2014.
+"Gravastar shadows," Physical Review D, Vol.
+90. https://journals.aps.org/prd/abstract/10.1103/PhysRevD.90.104013 Taylor, E. and Wheeler, J.
+"Exploring Black Holes: Introduction to General Relativity."
+Addison Wesley Longman, 2000. https://www.amazon.com/Exploring-Black-Holes-Introduction-Relativity/dp/020138423X (opens in new tab) Editor's note: This story was first published on Oct. 27, 2020.
+It was updated and republished on Feb. 8, 2022.
+Learn more by listening to the episode " What really happens at the center of a black hole? "
+on the Ask A Spaceman podcast, available on iTunes (opens in new tab) and on the Web at http://www.askaspaceman.com (opens in new tab) .
+Thanks to Andy P., Brittany, Jeff J., Robert S., Vladimir B., Jack S., @Grobillard, and James L. for the questions that led to this piece!
+Ask your own question on Twitter using #AskASpaceman or by following Paul @PaulMattSutter (opens in new tab) and facebook.com/PaulMattSutter (opens in new tab) .
+Join our Space Forums to keep talking space on the latest missions, night sky and more!
+And if you have a news tip, correction or comment, let us know at: community@space.com.
+Paul Sutter Space.com Contributor Paul M. Sutter is an astrophysicist at SUNY Stony Brook and the Flatiron Institute in New York City.
+Paul received his PhD in Physics from the University of Illinois at Urbana-Champaign in 2011, and spent three years at the Paris Institute of Astrophysics, followed by a research fellowship in Trieste, Italy, His research focuses on many diverse topics, from the emptiest regions of the universe to the earliest moments of the Big Bang to the hunt for the first stars.
+As an "Agent to the Stars," Paul has passionately engaged the public in science outreach for several years.
+He is the host of the popular "Ask a Spaceman!"
+podcast, author of "Your Place in the Universe" and "How to Die in Space" and he frequently appears on TV — including on The Weather Channel, for which he serves as Official Space Specialist.
+Sign Up for e-mail newsletters Get breaking space news and the latest updates on rocket launches, skywatching events and more!
+Contact me with news and offers from other Future brands Receive email from us on behalf of our trusted partners or sponsors Thank you for signing up to Space.
+You will receive a verification email shortly.
+There was a problem.
+Please refresh the page and try again.
+By submitting your information you agree to the Terms & Conditions (opens in new tab) and Privacy Policy (opens in new tab) and are aged 16 or over.
+MORE FROM SPACE... 1 SpaceX rolls rocket to pad ahead of Crew-5 astronaut launch (photos) 2 World Space Week 2022 centers space sustainability for the future 3 How to watch SpaceX's Crew-5 astronaut launch for NASA on Oct. 5 for free online 4 Best space books for 2022 5 Watch SpaceX launch 52 more Starlink satellites, land rocket tonight Space is part of Future US Inc, an international media group and leading digital publisher.
+Visit our corporate site (opens in new tab) .
+About Us (opens in new tab) Terms and conditions (opens in new tab) Privacy policy (opens in new tab) Cookies policy (opens in new tab) Accessibility Statement (opens in new tab) Topics (opens in new tab) Advertise with us (opens in new tab) Web notifications (opens in new tab) Careers (opens in new tab) © Future US, Inc. Full 7th Floor, 130 West 42nd Street, New York, NY 10036.
+Begin comScore Tag End comScore Tag Google Tag Manager End Google Tag Manager document assets - added by the article itself

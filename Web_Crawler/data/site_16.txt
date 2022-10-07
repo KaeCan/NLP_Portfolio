@@ -1,0 +1,75 @@
+[IE]><script>window.isIE = true</script><!
+[endif] Skip to main content contentType : // xml version="1.0" encoding="utf-8"?
+Generator: Adobe Illustrator 16.2.1, SVG Export Plug-In .
+SVG Version: 6.00 Build 0) Space Search Subscribe RSS (opens in new tab) (opens in new tab) (opens in new tab) (opens in new tab) (opens in new tab) All About Space Magazine (opens in new tab) (opens in new tab) Why subscribe?
+Your monthly guide to stargazing & space science Try a single issue or save on a subscription Issues delivered straight to your door or device From $3.99 (opens in new tab) View (opens in new tab) News Astronomy Spaceflight The Moon Our Solar System Skywatching More Videos Search for LIfe Technology Entertainment Reference SpaceX Expert Voices Forums All Topics Subscribe to "All About Space" Magazine!
+Space.com Store About Us Web Notifications Trending Artemis 1 updates Best Telescopes Best Star Projectors Best Binoculars Lego Star Wars deals Best Drones Russia-Ukraine war space impacts Full Moon Calendar Solar System Planets Night Sky Tonight Calendar Space is supported by its audience.
+When you purchase through links on our site, we may earn an affiliate commission.
+Here’s why you can trust us .
+Home News Entertainment The Science of 'Interstellar': Black Holes, Wormholes and Space Travel By Mike Wall published 10 November 2014 (opens in new tab) (opens in new tab) (opens in new tab) (opens in new tab) (opens in new tab) A theatrical poster for the 2014 film "Interstellar" shows the spaceship Endurance flying through a wormhole.
+(Image credit: Paramount Pictures) The sci-fi epic "Interstellar" is just a movie, but it throws a lot of science on the screen for space geeks to sink their teeth into. "
+Interstellar ," which opened in theaters across the United States on Friday (Nov. 7), delves into black holes and wormholes, and it touches down on more than one alien planet.
+The film apparently takes its science seriously; renowned theoretical physicist Kip Thorne served as an adviser and executive producer on "Interstellar."
+Here's a look at some of the space-science concepts that play key roles in the film, which was directed by Christopher Nolan and stars Matthew McConaughey, Anne Hathaway, Jessica Chastain and Michael Caine.
+Caution: Some spoilers ahead.
+[ 'Interstellar': A Space Epic in Pictures ] Journey through a wormhole Wormhole travel across the universe and supergiant black holes are just some of the wonders seen in the film "Interstellar."
+See how the science of "Interstellar" works in this infographic .
+(Image credit: By Karl Tate, Infographics Artist) "Interstellar" is set at some nebulous point in the not-too-distant future, when global crop failures threaten humanity with extinction.
+So a small band of explorers, led by a pilot-turned-farmer named Cooper (McConaughey), blasts off to search for an exoplanet that could serve as a new home for the human race.
+The astronauts are aided in their quest by a wormhole — a sort of tunnel that allows relatively quick travel between widely separated parts of the universe — which had mysteriously appeared near Saturn some years before.
+Cooper steers the pioneers' ship, called Endurance, through the wormhole into a planet-rich portion of a faraway galaxy.
+Though wormholes are a favored sci-fi trope, nobody knows whether or not they actually exist.
+According to Einstein's theory of general relativity, they are possible, but no sign of them has ever been spotted.
+Furthermore, scientists say, a wormhole would likely collapse quickly unless it was propped open using some kind of negative-energy matter.
+So the big wormhole in "Interstellar" would require some serious and exotic engineering work — but I'll stop here, so I don't give too much away about the film.
+The "Interstellar" visual-effects team used equations provided by Thorne to come up with their representation of the wormhole, depicting its entrance as a shimmering sphere — just as it likely would look in real life, Thorne said.
+"Neither wormholes nor black holes have been depicted in any Hollywood movie in the way that they actually would appear," Thorne said recently in an "Interstellar" science video produced by Wired magazine .
+"This is the first time the depiction began with Einstein's general relativity equations."
+A gorgeous black hole Much of the action in "Interstellar" revolves around a giant black hole , which Cooper and his crewmates call "Gargantua."
+Thorne said he and the visual-effects crew took a great deal of care to depict the light-gobbling monster accurately.
+The on-screen result is an exotic object that twists its infalling disk of dust and gas into complex shapes, with the overall effect further complicated by gravitational lensing — a real astronomical phenomenon in which a massive foreground object (such as a black hole) warps the light emitted by stars and other bodies located much farther away.
+[ Images: Black Holes of the Universe ] The collaboration between Thorne and the "Interstellar" visual-effects people was so successful that it will extend into the scientific literature, the physicist said.
+"We're going to write several technical papers about this — one aimed at the astrophysics community, and then something for the computer-graphics community — saying, 'Here are some things we've discovered about gravitational lensing by rapidly spinning black holes that we never knew before,'" Thorne said in the Wired video.
+A few quibbles In the film Interstellar, astronauts use a variety of spacecraft to cross the universe and explore alien worlds.
+See how they work in this Space.com infographic .
+(Image credit: By Karl Tate, Infographics Artist) In the movie, however, Cooper and his crew spend some time in close proximity to the black hole, which strains credulity.
+The astronauts would likely be killed by the energetic radiation thrown off by the superhot disk of material circling Gargantua, Roberto Trotta, an astrophysicist at Imperial College London, noted in an article for the British newspaper The Guardian .
+Or they'd be "spaghettified" by the intense gravitional pull, which would be much stronger at one end of their bodies than the other, Trotta added.
+And that's not the only issue.
+The astronauts land on a world that orbits very close to Gargantua — so close that, as the film depicts it, for every hour spent on the exoplanet's surface, seven years elapse on Earth.
+Such "time dilation" does indeed occur in the presence of gravitational fields, but there's no way it could be so extreme, according to Trotta.
+"You would need such a strong gravitational field that you need to be close to what is called the Schwarzschild radius of the object — essentially the event horizon of a black hole," he wrote in The Guardian.
+(The event horizon is the point beyond which nothing, not even light, can escape a black hole's clutches.)
+"There is simply no planet that can have this kind of gravity, and if you tried to land on the surface, it would be so strong it would crush you.
+The numbers simply do not work."
+In fact, a planet so close to a black hole could not even exist, Trotta observed: Tidal forces generated by the black hole's immense gravity would tear the planet apart.
+A visual spectacle Such details will rankle some filmgoers, while other folks won't mind suspending their disbelief.
+But most people who see "Interstellar" will probably agree that it's a stunning visual spectacle.
+One of the alien planets depicted in the film, for example, is a water world featuring mysterious gigantic waves, while another is a frigid realm whose clouds are frozen solid.
+These worlds are gorgeously rendered, as are the many spaceflight sequences throughout the movie.
+The spaceships in "Interstellar" are also nicely conceived and designed.
+Endurance is a ring-shaped vehicle consisting of 12 boxy modules, some of which can be shuttled to the surface of an exoplanet to set up a base.
+The mothership carries two heavy-lift "landers" to perform this work, as well as two more-agile "Rangers," which the crew uses for planetary exploration.
+And Endurance rotates 5.6 times per minute to generate Earth-equivalent gravity aboard the ship — a detail the sticklers in the audience will doubtless appreciate.
+Follow Mike Wall on Twitter @michaeldwall and Google+ .
+Follow us @Spacedotcom , Facebook or Google+ .
+Originally published on Space.com.
+Join our Space Forums to keep talking space on the latest missions, night sky and more!
+And if you have a news tip, correction or comment, let us know at: community@space.com.
+Mike Wall Senior Space Writer Michael Wall is a Senior Space Writer with Space.com (opens in new tab) and joined the team in 2010.
+He primarily covers exoplanets, spaceflight and military space, but has been known to dabble in the space art beat.
+His book about the search for alien life, "Out There," was published on Nov. 13, 2018.
+Before becoming a science writer, Michael worked as a herpetologist and wildlife biologist.
+He has a Ph.D. in evolutionary biology from the University of Sydney, Australia, a bachelor's degree from the University of Arizona, and a graduate certificate in science writing from the University of California, Santa Cruz.
+To find out what his latest project is, you can follow Michael on Twitter.
+Sign Up for e-mail newsletters Get breaking space news and the latest updates on rocket launches, skywatching events and more!
+Contact me with news and offers from other Future brands Receive email from us on behalf of our trusted partners or sponsors Thank you for signing up to Space.
+You will receive a verification email shortly.
+There was a problem.
+Please refresh the page and try again.
+By submitting your information you agree to the Terms & Conditions (opens in new tab) and Privacy Policy (opens in new tab) and are aged 16 or over.
+MORE FROM SPACE... 1 Atlas V rocket launches 2 communications satellites to orbit 2 SpaceX delays launch of Starlink satellites to make way for Crew-5 astronaut flight 3 Elon Musk re-ups offer to buy Twitter for $44 billion: reports 4 Pictures from space!
+Our image of the day 5 China begins recruitment for 4th batch of astronauts Space is part of Future US Inc, an international media group and leading digital publisher.
+Visit our corporate site (opens in new tab) .
+About Us (opens in new tab) Terms and conditions (opens in new tab) Privacy policy (opens in new tab) Cookies policy (opens in new tab) Accessibility Statement (opens in new tab) Topics (opens in new tab) Advertise with us (opens in new tab) Web notifications (opens in new tab) Careers (opens in new tab) © Future US, Inc. Full 7th Floor, 130 West 42nd Street, New York, NY 10036.
+Begin comScore Tag End comScore Tag Google Tag Manager End Google Tag Manager document assets - added by the article itself

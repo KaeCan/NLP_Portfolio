@@ -1,0 +1,81 @@
+[IE]><script>window.isIE = true</script><!
+[endif] Skip to main content contentType : // xml version="1.0" encoding="utf-8"?
+Generator: Adobe Illustrator 16.2.1, SVG Export Plug-In .
+SVG Version: 6.00 Build 0) Space Search Subscribe RSS (opens in new tab) (opens in new tab) (opens in new tab) (opens in new tab) (opens in new tab) All About Space Magazine (opens in new tab) (opens in new tab) Why subscribe?
+Your monthly guide to stargazing & space science Try a single issue or save on a subscription Issues delivered straight to your door or device From $3.99 (opens in new tab) View (opens in new tab) News Astronomy Spaceflight The Moon Our Solar System Skywatching More Videos Search for LIfe Technology Entertainment Reference SpaceX Expert Voices Forums All Topics Subscribe to "All About Space" Magazine!
+Space.com Store About Us Web Notifications Trending Artemis 1 updates Best Telescopes Best Star Projectors Best Binoculars Lego Star Wars deals Best Drones Russia-Ukraine war space impacts Full Moon Calendar Solar System Planets Night Sky Tonight Calendar Space is supported by its audience.
+When you purchase through links on our site, we may earn an affiliate commission.
+Here’s why you can trust us .
+Home News Science & Astronomy What Exactly Is a Black Hole Event Horizon (and What Happens There)?
+By Charles Q. Choi published 9 April 2019 (opens in new tab) (opens in new tab) (opens in new tab) (opens in new tab) (opens in new tab) A visualization from a supercomputer simulation shows how positrons behave near the event horizon of a rotating black hole.
+(Image credit: Kyle Parfrey et al./Berkeley Lab) On Wednesday (April 10), the international Event Horizon Telescope project will release the first results from its plan to image black holes.
+But what exactly is an event horizon?
+The event horizon of a black hole is linked to the object's escape velocity — the speed that one would need to exceed to escape the black hole's gravitational pull.
+The closer someone came to a black hole, the greater the speed they would need to escape that massive gravity.
+The event horizon is the threshold around the black hole where the escape velocity surpasses the speed of light.
+According to Einstein's theory of special relativity , nothing can travel faster through space than the speed of light.
+This means a black hole's event horizon is essentially the point from which nothing can return.
+The name refers to the impossibility of witnessing any event taking place inside that border, the horizon beyond which one cannot see.
+Related: 'Groundbreaking Result' Coming Soon from Event Horizon Telescope "The event horizon is the ultimate prison wall — one can get in but never get out," Avi Loeb, chair of astronomy at Harvard University, told Space.com.
+When an item gets near an event horizon, a witness would see the item's image redden and dim as gravity distorted light coming from that item.
+At the event horizon, this image would effectively fade to invisibility.
+Within the event horizon, one would find the black hole's singularity, where previous research suggests all of the object's mass has collapsed to an infinitely dense extent.
+This means the fabric of space and time around the singularity has also curved to an infinite degree, so the laws of physics as we currently know them break down.
+"The event horizon protects us from the unknown physics near a singularity," Loeb said.
+Related: Images: Black Holes of the Universe The size of an event horizon depends on the black hole's mass.
+If Earth were compressed until it became a black hole, it would have a diameter of about 0.69 inches (17.4 millimeters), a little smaller than a dime; if the sun were converted to a black hole, it would be about 3.62 miles (5.84 kilometers) wide, about the size of a village or town.
+The supermassive black holes that the Event Horizon Telescope is observing are far larger; Sagittarius A*, at the center of the Milky Way, is about 4.3 million times the mass of our sun and has a diameter of about 7.9 million miles (12.7 million km), while M87 at the heart of the Virgo A galaxy is about 6 billion solar masses and 11 billion miles (17.7 billion km) wide.
+The strength of a black hole's gravitational pull depends on the distance from it — the closer you are, the more powerful the tug.
+But the effects of this gravity on a visitor would differ depending on the black hole's mass.
+If you fell toward a relatively small black hole a few times the mass of the sun, for example, you would get pulled apart and stretched out in a process known as spaghettification, dying well before you reached the event horizon.
+However, if you were to fall toward a supermassive black hole millions to billions of times the mass of the sun, you wouldn't "feel such forces to a significant degree," Loeb said.
+You would not die of spaghettification before you crossed the event horizon (although numerous other hazards around such a black hole might kill you before you reached that point).
+Black holes likely spin because the stars they generally originate from also spun and because the matter they swallow whirled in spirals before it fell in.
+Recent findings suggest that black holes can rotate at speeds greater than 90 percent that of light, Loeb said.
+Related: Black Hole Quiz: How Well Do You Know Nature's Weirdest Creations?
+Previously, the most basic model of black holes assumed they did not spin, and so their singularities were assumed to be points.
+But because black holes generally rotate, current models suggest their singularities are infinitely thin rings.
+This leads the event horizons of rotating black holes, also known as Kerr black holes, to appear oblong — squashed at the poles and bulging at their equators.
+A rotating black hole's event horizon separates into an outer horizon and an inner horizon.
+The outer event horizon of such an object acts like a point of no return, just like the event horizon of a nonrotating black hole.
+The inner event horizon of a rotating black hole, also known as the Cauchy horizon, is stranger.
+Past that threshold, cause no longer necessarily precedes effect, the past no longer necessarily determines the future, and time travel may be possible.
+(In a nonrotating black hole, also known as a Schwarzschild black hole, the inner and outer horizons coincide.)
+A spinning black hole also forces the fabric of space-time around it to rotate with it, a phenomenon known as frame dragging or the Lense-Thirring effect.
+Frame dragging is also seen around other massive bodies, including Earth.
+Frame dragging creates a cosmic whirlpool known as the ergosphere, which occurs outside a rotating black hole's outer event horizon.
+Any object within the ergosphere is forced to move in the same direction in which the black hole is spinning.
+Matter falling into the ergosphere can get enough speed to escape the black hole's gravitational pull, taking some of the black hole's energy with it.
+In this manner, black holes can have powerful effects on their surroundings.
+Rotation can also make black holes more effective at converting any matter that falls into them into energy.
+A nonrotating black hole would convert about 5.7 percent of an infalling object's mass into energy, following Einstein's famous equation E = mc^2.
+In contrast, a rotating black hole could convert up to 42 percent of an object's mass into energy, scientists have determined Related: The Strangest Black Holes in the Universe "This has important implications for the environments around black holes," Loeb said.
+"The amount of energy from the supermassive black holes at the centers of virtually all large galaxies can significantly influence the evolution of those galaxies."
+Recent work has greatly upset the conventional view of black holes.
+In 2012, physicists suggested that anything falling toward a black hole might encounter " firewalls " at or in the vicinity of the event horizon that would incinerate any matter falling in.
+This is because when particles collide, they can become invisibly connected through a link called entanglement, and black holes could break such links, releasing incredible amounts of energy.
+However, other research seeking to unite general relativity , which can explain the nature of gravity, with quantum mechanics, which can describe the behavior of all known particles, suggests that firewalls may not exist — because event horizons themselves may not exist.
+Some physicists suggest that instead of abysses from which nothing can return, what we currently think of as black holes may actually be a range of black-hole-like objects that lack event horizons, such as so-called fuzzballs, Loeb said.
+By imaging the edges of black holes, the Event Horizon Telescope can help scientists analyze the shapes and behaviors of event horizons.
+"We can use these images to constrain any theory on the structure of black holes," Loeb said.
+"Indeed, the fuzzball speculation — where the event horizon is not a sharp boundary, but is rather fuzzy — could be tested with images from the Event Horizon Telescope."
+Astronomers to Peer into a Black Hole for 1st Time with Event Horizon Telescope This Huge Black Hole Is Spinning at Half the Speed of Light!
+8 Baffling Astronomy Mysteries Follow Charles Q. Choi on Twitter @cqchoi .
+Follow us on Twitter.
+Follow us on Twitter @Spacedotcom or Facebook .
+Join our Space Forums to keep talking space on the latest missions, night sky and more!
+And if you have a news tip, correction or comment, let us know at: community@space.com.
+Charles Q. Choi Contributing Writer Charles Q. Choi is a contributing writer for Space.com and Live Science.
+He covers all things human origins and astronomy as well as physics, animals and general science topics.
+Charles has a Master of Arts degree from the University of Missouri-Columbia, School of Journalism and a Bachelor of Arts degree from the University of South Florida.
+Charles has visited every continent on Earth, drinking rancid yak butter tea in Lhasa, snorkeling with sea lions in the Galapagos and even climbing an iceberg in Antarctica.
+Visit him at http://www.sciwriter.us Sign Up for e-mail newsletters Get breaking space news and the latest updates on rocket launches, skywatching events and more!
+Contact me with news and offers from other Future brands Receive email from us on behalf of our trusted partners or sponsors Thank you for signing up to Space.
+You will receive a verification email shortly.
+There was a problem.
+Please refresh the page and try again.
+By submitting your information you agree to the Terms & Conditions (opens in new tab) and Privacy Policy (opens in new tab) and are aged 16 or over.
+MORE FROM SPACE... 1 Taurid meteor shower 2022: When, where & how to see it 2 SpaceX launches 52 Starlink satellites, lands rocket on ship in Pacific 3 Astronauts fly Albert Einstein doll to demo physicist's 'happiest thought' 4 World Space Week: Sustaining astronomy in an age of satellite megaconstellations 5 1st Russian cosmonaut to launch with SpaceX heads to space station Space is part of Future US Inc, an international media group and leading digital publisher.
+Visit our corporate site (opens in new tab) .
+About Us (opens in new tab) Terms and conditions (opens in new tab) Privacy policy (opens in new tab) Cookies policy (opens in new tab) Accessibility Statement (opens in new tab) Topics (opens in new tab) Advertise with us (opens in new tab) Web notifications (opens in new tab) Careers (opens in new tab) © Future US, Inc. Full 7th Floor, 130 West 42nd Street, New York, NY 10036.
+Begin comScore Tag End comScore Tag Google Tag Manager End Google Tag Manager document assets - added by the article itself

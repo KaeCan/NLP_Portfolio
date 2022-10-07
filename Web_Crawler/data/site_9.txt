@@ -1,0 +1,115 @@
+[IE]><script>window.isIE = true</script><!
+[endif] Skip to main content contentType : // xml version="1.0" encoding="utf-8"?
+Generator: Adobe Illustrator 16.2.1, SVG Export Plug-In .
+SVG Version: 6.00 Build 0) Space Search Subscribe RSS (opens in new tab) (opens in new tab) (opens in new tab) (opens in new tab) (opens in new tab) All About Space Magazine (opens in new tab) (opens in new tab) Why subscribe?
+Your monthly guide to stargazing & space science Try a single issue or save on a subscription Issues delivered straight to your door or device From $3.99 (opens in new tab) View Deal (opens in new tab) News Astronomy Spaceflight The Moon Our Solar System Skywatching More Videos Search for LIfe Technology Entertainment Reference SpaceX Expert Voices Forums All Topics Subscribe to "All About Space" Magazine!
+Space.com Store About Us Web Notifications Trending Artemis 1 updates Best Telescopes Best Star Projectors Best Binoculars Lego Star Wars deals Best Drones Russia-Ukraine war space impacts Full Moon Calendar Solar System Planets Night Sky Tonight Calendar Space is supported by its audience.
+When you purchase through links on our site, we may earn an affiliate commission.
+Here’s why you can trust us .
+Home References Science & Astronomy Where do black holes lead to?
+By David Crookes , Daisy Dobrijevic published 5 January 2022 If you travel through a black hole, where do you go?
+(opens in new tab) (opens in new tab) (opens in new tab) (opens in new tab) (opens in new tab) Where do black holes lead to?
+(Image credit: All About Space magazine) Jump to: Are black holes wormholes?
+Black holes vs. white holes Black holes go nowhere Do black holes even exist?
+Additional resources Bibliography So there you are, about to leap into a black hole .
+What could possibly await should — against all odds — you somehow survive?
+Where would you end up and what tantalizing tales would you be able to regale if you managed to clamber your way back?
+The simple answer to all of these questions is, as Professor Richard Massey explains, "Who knows?"
+As a Royal Society research fellow at the Institute for Computational Cosmology at Durham University, Massey is fully aware that the mysteries of black holes run deep.
+"Falling through an event horizon is literally passing beyond the veil — once someone falls past it, nobody could ever send a message back," he said.
+"They'd be ripped to pieces by the enormous gravity, so I doubt anyone falling through would get anywhere."
+Related: Black Hole Quiz: How Well Do You Know Nature's Weirdest Creations?
+If that sounds like a disappointing — and painful — answer, then it is to be expected.
+Ever since Albert Einstein's general theory of relativity was considered to have predicted black holes by linking space-time with the action of gravity , it has been known that black holes result from the death of a massive star leaving behind a small, dense remnant core.
+Assuming this core has more than roughly three times the mass of the sun , gravity would overwhelm to such a degree that it would fall in on itself into a single point, or singularity, understood to be the black hole's infinitely dense core.
+The resulting uninhabitable black hole would have such a powerful gravitational pull that not even light could avoid it.
+So, should you then find yourself at the event horizon — the point at which light and matter can only pass inward, as proposed by the German astronomer Karl Schwarzschild — there is no escape.
+According to Massey, tidal forces would reduce your body into strands of atoms (or 'spaghettification', as it is also known) and the object would eventually end up crushed at the singularity.
+The idea that you could pop out somewhere — perhaps at the other side — seems utterly fantastical.
+What about wormholes?
+Black holes are strange regions where gravity is strong enough to bend light, warp space and distort time.
+(Image credit: Karl Tate, SPACE.com contributor) (opens in new tab) Over the years scientists have looked into the possibility that black holes could be wormholes to other galaxies.
+They may even be, as some have suggested, a path to another universe.
+Such an idea has been floating around for some time: Einstein teamed up with Nathan Rosen to theorise bridges that connect two different points in space-time in 1935.
+But it gained some fresh ground in the 1980s when physicist Kip Thorne — one of the world's leading experts on the astrophysical implications of Einstein's general theory of relativity — raised a discussion about whether objects could physically travel through them.
+"Reading Kip Thorne's popular book about wormholes is what first got me excited about physics as a child," Massey said.
+But it doesn't seem likely that wormholes exist.
+Indeed, Thorne, who lent his expert advice to the production team for the Hollywood movie Interstellar, wrote: "We see no objects in our universe that could become wormholes as they age," in his book "The Science of Interstellar" (W.W. Norton and Company, 2014).
+Thorne told Space.com that journeys through these theoretical tunnels would most likely remain science fiction, and there is certainly no firm evidence that a black hole could allow for such a passage.
+Related: The Strangest Black Holes in the Universe But, the problem is that we can't get up close to see for ourselves.
+Why, we can't even take photographs of anything that takes place inside a black hole — if light cannot escape their immense gravity, then nothing can be snapped by a camera.
+As it stands, theory suggests that anything which goes beyond the event horizon is simply added to the black hole and, what's more, because time distorts close to this boundary, this will appear to take place incredibly slowly, so answers won't be quickly forthcoming.
+"I think the standard story is that they lead to the end of time," said Douglas Finkbeiner, professor of astronomy and physics at Harvard University.
+"An observer far away will not see their astronaut friend fall into the black hole.
+They'll just get redder and fainter as they approach the event horizon [as a result of gravitational red shift].
+But the friend falls right in, to a place beyond 'forever.'
+Whatever that means."
+Artist's concept of a wormhole.
+If wormholes exist, they might lead to another universe.
+But, there's no evidence that wormholes are real or that a black hole would act like one.
+(Image credit: Shutterstock) (opens in new tab) Maybe a black hole leads to a white hole Certainly, if black holes do lead to another part of a galaxy or another universe, there would need to be something opposite to them on the other side.
+Could this be a white hole — a theory put forward by Russian cosmologist Igor Novikov in 1964?
+Novikov proposed that a black hole links to a white hole that exists in the past.
+Unlike a black hole, a white hole will allow light and matter to leave, but light and matter will not be able to enter.
+Scientists have continued to explore the potential connection between black and white holes.
+In their 2014 study published in the journal Physical Review D (opens in new tab) , physicists Carlo Rovelli and Hal M. Haggard claimed that "there is a classic metric satisfying the Einstein equations outside a finite space-time region where matter collapses into a black hole and then emerges from a while hole."
+In other words, all of the material black holes have swallowed could be spewed out, and black holes may become white holes when they die.
+Related stories — Stephen Hawking's Most Far-Out Ideas About Black Holes — How many black holes are there in the universe ?
+— 'Balding' black holes prove Einstein right again on general relativity Far from destroying the information that it absorbs, the collapse of a black hole would be halted.
+It would instead experience a quantum bounce, allowing information to escape.
+Should this be the case, it would shed some light on a proposal by former Cambridge University cosmologist and theoretical physicist Stephen Hawking who, in the 1970s, explored the possibility that black holes emit particles and radiation — thermal heat — as a result of quantum fluctuations.
+"Hawking said a black hole doesn't last forever," Finkbeiner said.
+Hawking calculated that the radiation would cause a black hole to lose energy, shrink and disappear, as described in his 1976 paper published (opens in new tab) in Physical Review D. Given his claims that the radiation emitted would be random and contain no information about what had fallen in, the black hole, upon its explosion, would erase loads of information.
+This meant Hawking's idea was at odds with quantum theory, which says information can't be destroyed.
+Physics states information just becomes more difficult to find because, should it become lost, it becomes impossible to know the past or the future.
+Hawking's idea led to the 'black hole information paradox' and it has long puzzled scientists.
+Some have said Hawking was simply wrong, and the man himself even declared he had made an error during a scientific conference in Dublin in 2004.
+So, do we go back to the concept of black holes emitting preserved information and throwing it back out via a white hole?
+Maybe.
+In their 2013 study published in Physical Review Letters (opens in new tab) , Jorge Pullin at Louisiana State University and Rodolfo Gambini at the University of the Republic in Montevideo, Uruguay, applied loop quantum gravity to a black hole and found that gravity increased towards the core but reduced and plonked whatever was entering into another region of the universe.
+The results gave extra credence to the idea of black holes serving as a portal.
+In this study, singularity does not exist, and so it doesn't form an impenetrable barrier that ends up crushing whatever it encounters.
+It also means that information doesn't disappear.
+Maybe black holes go nowhere Yet physicists Ahmed Almheiri, Donald Marolf, Joseph Polchinski and James Sully still believed Hawking could have been on to something.
+They worked on a theory that became known as the AMPS firewall, or the black hole firewall hypothesis.
+By their calculations, quantum mechanics could feasibly turn the event horizon into a giant wall of fire and anything coming into contact would burn in an instant.
+In that sense, black holes lead nowhere because nothing could ever get inside.
+This, however, violates Einstein's general theory of relativity.
+Someone crossing the event horizon shouldn't actually feel any great hardship because an object would be in free fall and, based on the equivalence principle, that object — or person — would not feel the extreme effects of gravity.
+It could follow the laws of physics present elsewhere in the universe, but even if it didn't go against Einstein's principle it would undermine quantum field theory or suggest information can be lost.
+Artist's impression of a tidal disruption event which occurs when a star passes too close to a supermassive black hole.
+(Image credit: All About Space magazine) Black hole of uncertainty Step forward Hawking once more.
+In 2014, he published a study (opens in new tab) in which he eschewed the existence of an event horizon — meaning there is nothing there to burn — saying gravitational collapse would produce an 'apparent horizon' instead.
+This horizon would suspend light rays trying to move away from the core of the black hole, and would persist for a "period of time."
+In his rethinking , apparent horizons temporarily retain matter and energy before dissolving and releasing them later down the line.
+This explanation best fits with quantum theory — which says information can't be destroyed — and, if it was ever proven, it suggests that anything could escape from a black hole.
+Hawking went as far as saying black holes may not even exist.
+"Black holes should be redefined as metastable bound states of the gravitational field," he wrote.
+There would be no singularity, and while the apparent field would move inwards due to gravity, it would never reach the center and be consolidated within a dense mass.
+(Image credit: Karl Tate, SPACE.com Contributor) (opens in new tab) And yet anything which is emitted will not be in the form of the information swallowed.
+It would be impossible to figure out what went in by looking at what is coming out, which causes problems of its own — not least for, say, a human who found themselves in such an alarming position.
+They'd never feel the same again!
+One thing's for sure, this particular mystery is going to swallow up many more scientific hours for a long time to come.
+Rovelli and Francesca Vidotto recently suggested that a component of dark matter could be formed by remnants of evaporated black holes, and Hawking's paper on black holes and 'soft hair' was released in 2018 (opens in new tab) , and describes how zero-energy particles are left around the point of no return, the event horizon — an idea that suggests information is not lost but captured.
+This flew in the face of the no-hair theorem which was expressed by physicist John Archibald Wheeler and worked on the basis that two black holes would be indistinguishable to an observer because none of the special particle physics pseudo-charges would be conserved.
+It's an idea that has got scientists talking, but there is some way to go before it's seen as the answer for where black holes lead.
+If only we could find a way to leap into one.
+Additional resources You can learn more about black holes with NASA’s in depth article (opens in new tab) and explore how (opens in new tab) the first image of a black hole was captured.
+If you’re looking for some kid-friendly content, ESA has some great resources (opens in new tab) for teaching little ones all about black holes and the universe.
+Bibliography Beyond Einstein: From the Big Bang to black holes (opens in new tab) Wormholes: Types & Creation (opens in new tab) (Image credit: All About Space magazine) (opens in new tab) Join our Space Forums to keep talking space on the latest missions, night sky and more!
+And if you have a news tip, correction or comment, let us know at: community@space.com.
+David Crookes Contributing Writer David Crookes is a UK-based science and technology journalist who has been writing professionally for more than two decades.
+Having studied at the University of Durham in England, he has written for dozens of newspapers, magazines and websites including The Independent, The i Paper, London Evening Standard, BBC Earth, How It Works and LiveScience.
+He has been a regular contributor to Space.com 's sister publication, All About Space magazine since 2014.
+Sign Up for e-mail newsletters Get breaking space news and the latest updates on rocket launches, skywatching events and more!
+Contact me with news and offers from other Future brands Receive email from us on behalf of our trusted partners or sponsors Thank you for signing up to Space.
+You will receive a verification email shortly.
+There was a problem.
+Please refresh the page and try again.
+By submitting your information you agree to the Terms & Conditions (opens in new tab) and Privacy Policy (opens in new tab) and are aged 16 or over.
+MORE FROM SPACE... 1 SpaceX astronaut missions for NASA: Crew-5 live updates 2 16 disability ambassadors will take a Zero-G flight for inclusion 3 SpaceX launches Crew-5 astronauts on historic flight to space station for NASA 4 SpaceX will launch 52 more Starlink satellites tonight (Oct. 5).
+Here's how to watch.
+5 Startup SpinLaunch aces 10th suborbital launch with high-tech slingshot Space is part of Future US Inc, an international media group and leading digital publisher.
+Visit our corporate site (opens in new tab) .
+About Us (opens in new tab) Terms and conditions (opens in new tab) Privacy policy (opens in new tab) Cookies policy (opens in new tab) Accessibility Statement (opens in new tab) Topics (opens in new tab) Advertise with us (opens in new tab) Web notifications (opens in new tab) Careers (opens in new tab) © Future US, Inc. Full 7th Floor, 130 West 42nd Street, New York, NY 10036.
+Begin comScore Tag End comScore Tag Google Tag Manager End Google Tag Manager document assets - added by the article itself

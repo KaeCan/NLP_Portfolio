@@ -1,0 +1,116 @@
+[IE]><script>window.isIE = true</script><!
+[endif] Skip to main content contentType : // xml version="1.0" encoding="utf-8"?
+Generator: Adobe Illustrator 16.2.1, SVG Export Plug-In .
+SVG Version: 6.00 Build 0) Space Search Subscribe RSS (opens in new tab) (opens in new tab) (opens in new tab) (opens in new tab) (opens in new tab) All About Space Magazine (opens in new tab) (opens in new tab) Why subscribe?
+Your monthly guide to stargazing & space science Try a single issue or save on a subscription Issues delivered straight to your door or device From $3.99 (opens in new tab) View (opens in new tab) News Astronomy Spaceflight The Moon Our Solar System Skywatching More Videos Search for LIfe Technology Entertainment Reference SpaceX Expert Voices Forums All Topics Subscribe to "All About Space" Magazine!
+Space.com Store About Us Web Notifications Trending Artemis 1 updates Best Telescopes Best Star Projectors Best Binoculars Lego Star Wars deals Best Drones Russia-Ukraine war space impacts Full Moon Calendar Solar System Planets Night Sky Tonight Calendar Space is supported by its audience.
+When you purchase through links on our site, we may earn an affiliate commission.
+Here’s why you can trust us .
+Home News Science & Astronomy Eureka!
+Scientists Photograph a Black Hole for the 1st Time By Mike Wall published 10 April 2019 Black holes have finally been dragged out of the shadows.
+(opens in new tab) (opens in new tab) (opens in new tab) (opens in new tab) (opens in new tab) The Event Horizon Telescope, a planet-scale array of eight ground-based radio telescopes forged through international collaboration, captured this image of the supermassive black hole in the center of the galaxy M87 and its shadow.
+(Image credit: EHT Collaboration) Black holes have finally been dragged out of the shadows.
+For the first time ever, humanity has photographed one of these elusive cosmic beasts, shining light on an exotic space-time realm that had long been beyond our ken.
+"We have seen what we thought was unseeable," Sheperd Doeleman, of Harvard University and the Harvard-Smithsonian Center for Astrophysics, said today (April 10) during a press conference at the National Press Club in Washington, D.C. Related: What Exactly Is a Black Hole Event Horizon (and What Happens There)?
+Doeleman directs the Event Horizon Telescope (EHT) project, which captured the epic imagery.
+These four photos, which were unveiled today at press events around the world and in a series of published papers, outline the contours of the monster black hole lurking at the heart of the elliptical galaxy M87.
+The imagery is mind-blowing enough in its own right.
+But even more significant is the trail the new results will likely blaze, researchers said.
+"There's really a new field to explore," Peter Galison, a professor of physics and the history of science at Harvard, said in an EHT talk last month at the South by Southwest (SXSW) festival in Austin, Texas.
+"And that's ultimately what's so exciting about this."
+Galison, who co-founded Harvard's interdisciplinary Black Hole Initiative (BHI), compared the imagery's potential impact to that of the drawings made by English scientist Robert Hooke in the 1600s.
+These illustrations showed people what insects and plants look like through a microscope.
+"It opened a world," Galison said of Hooke's work.
+A telescope the size of Earth The EHT is a consortium of more than 200 scientists that has been in the works for about two decades.
+It's a truly international endeavor; funding over the years has come from the U.S. National Science Foundation and many other organizations in countries around the world.
+The project takes its name from a black hole's famed point of no return — the boundary beyond which nothing, not even light, can escape the object's gravitational clutches.
+"The event horizon is the ultimate prison wall," BHI founding director Avi Loeb, the chair of Harvard's astronomy department, told Space.com.
+(Loeb is not part of the EHT team.)
+"Once you're in, you can never get out."
+It's therefore impossible to photograph the interior of a black hole, unless you somehow manage to get in there yourself.
+(You and your pictures couldn't make it back to the outside world, of course.)
+So, the EHT images the event horizon, mapping out the black hole's dark silhouette.
+(The disk of fast-moving gas swirling around and into black holes emits lots of radiation, so such silhouettes stand out.)
+"We're looking for the loss of photons," EHT science council member Dan Marrone, an associate professor of astronomy at the University of Arizona, told Space.com.
+The project has been scrutinizing two black holes — the M87 behemoth, which harbors about 6.5 billion times the mass of Earth's sun, and our own Milky Way galaxy's central black hole, known as Sagittarius A* .
+This latter object, while still a supermassive black hole, is a runt compared to M87's beast, containing a mere 4.3 million solar masses.
+Both of these objects are tough targets because of their immense distance from Earth.
+Sagittarius A* lies about 26,000 light-years from us, and M87's black hole is a whopping 53.5 million light-years away.
+From our perspective, Sagittarius A*'s event horizon "is so small that it's the equivalent of seeing an orange on the moon or being able to read the newspaper in Los Angeles while you're sitting in New York City," Doeleman said during the SXSW event last month.
+No single telescope on Earth can make that observation, so Doeleman and the rest of the EHT team had to get creative.
+The researchers have linked up radio telescopes in Arizona, Spain, Mexico, Antarctica and other places around the world, forming a virtual instrument the size of Earth.
+Related: Images: Black Holes of the Universe So much data The EHT team has used this megascope to study the two supermassive black holes for two weeklong stretches to date — once in April 2017 and again the following year.
+The new imagery comes from the first observing run.
+There are good reasons why it's taken two years for the project's first result to come out.
+For one thing, each night of observing generated about 1 petabyte of data, resulting in such a haul that the team has to move its information from place to place the old-fashioned way.
+"There's no way that we can transfer this data through the internet," EHT project scientist Dimitrios Psaltis, an astronomy professor at the University of Arizona, said at the SXSW event.
+"So, what we actually do is, we take our hard drives and we FedEx them from place to place.
+This is much faster than any cable that you can ever find."
+This slows and complicates analysis, of course.
+Data from the EHT scope near the South Pole, for example, couldn't get off Antarctica until December 2017, when it was warm enough for planes to go in and out, Marrone said.
+Correlating and calibrating the data was also tricky, he added.
+And the team took great care with this work, given the momentous nature of the find.
+"If you're going to come with a big claim of imaging a black hole, you have to have big evidence, very strong evidence," Doeleman said at the SXSW event (which served as an explainer of the EHT effort but did not announce any results).
+"And on our project, we often think that people like [Albert] Einstein, [Arthur] Eddington [and Karl] Schwarzschild are kind of looking over our shoulders," he added, referring to physicists who helped pioneer our understanding of black holes.
+"And when you have luminaries kind of virtually checking your work, you really want to get it right."
+Related: The Strangest Black Holes in the Universe A simulated image by the University of Arizona shows the turbulent plasma in the extreme environment around a supermassive black hole.
+(Image credit: University of Arizona) What it all means The EHT project has two main goals, Psaltis said: to image an event horizon for the first time ever and to help determine if Einstein's theory of general relativity needs any revisions.
+Before Einstein came along, gravity was generally regarded as a mysterious force at a distance.
+But general relativity describes it as the warping of space-time: Massive objects such as planets, stars and black holes create a sort of sag in space-time, much as a bowling ball would if placed on a trampoline.
+Nearby objects follow this curve and get funneled toward the central mass.
+General relativity has held up incredibly well over the century since its introduction, passing every test that scientists have thrown at it.
+But the EHT's observations provide another trial, in an extreme realm where predictions may not match reality.
+That's because astronomers can calculate the expected size and shape of an event horizon using general relativity, Psaltis explained.
+If the observed silhouette matches the theory-informed simulations, "then Einstein was 100% right," Psaltis said.
+"If the answer is no, then we have to tweak his theory in order to make it work with experiments.
+This is how science goes."
+And we learned today that no tweaks are needed, at least at the moment: EHT's M87 observations are consistent with general relativity, team members said.
+Namely, the event horizon is nearly circular and is the "right" size for a black hole of that immense mass.
+"I have to admit, I was a little stunned that it matched so closely the predictions that we had made," EHT team member Avery Broderick, of the University of Waterloo and the Perimeter Institute for Theoretical Physics in Canada, said during today's news conference.
+Such ground-truthing is vital to the scientific process, of course.
+Indeed, providing better information to feed into theories and simulations will likely be one of the EHT's biggest contributions, Loeb said.
+"Doing physics is a dialog with nature," he said.
+"We test our ideas by comparing them to experiments; experimental data is crucial."
+The new results should also help scientists get a better handle on black holes, he and other researchers said.
+For example, EHT imagery will likely shine significant light on how gas spirals down into a black hole's maw.
+This accretion process, which can lead to the generation of powerful jets of radiation, is poorly understood, Loeb said.
+In addition, the shape of an event horizon can reveal whether a black hole is spinning, said Fiona Harrison of the California Institute of Technology, the principal investigator of NASA's black-hole-studying Nuclear Spectroscopic Telescope Array (NuSTAR) mission.
+"We've inferred the spin of black holes indirectly," Harrison, who's not part of the EHT team, told Space.com.
+EHT imagery provides "a direct test, which is very exciting," she added.
+EHT's data revealed the M87 black hole is spinning clockwise, team members said today.
+The project should also show how matter is distributed around a black hole, and EHT observations could eventually teach astronomers a great deal about how supermassive black holes shape the evolution of their host galaxies over long time scales, Harrison said.
+EHT's results also mesh well with those of the Laser Interferometer Gravitational-Wave Observatory (LIGO), which has detected the space-time ripples generated by mergers involving black holes just a few dozen times more massive than the sun.
+"Despite varying across a factor of billion in mass, known black holes are all consistent with a single description," Broderick said today.
+"Black holes big and small are analogous in important ways.
+What we learn from one [type] necessarily applies to the other."
+And in case you're wondering about Sagittarius A*: The EHT team hopes to get imagery of that supermassive black hole soon, Doeleman said today.
+The researchers looked at M87 first, and it's a bit easier to resolve than Sagittarius A* because it's less variable over short timescales, he explained.
+A new perspective?
+Then there's the broader appeal of the newly released imagery — how it speaks to those of us who aren't astrophysicists.
+The contributions in this arena could be significant, EHT team members and outside scientists said.
+Photos can change the way we think about ourselves and our place in the universe, Marrone noted, citing the famous "Earthrise" photo taken by Apollo 8 astronaut Bill Anders in December 1968.
+This image, which gave the masses a glimpse of our planet as it really is — a lonely outpost of life in an infinite sea of darkness — is widely credited with helping to spur the environmental movement.
+Seeing a real-life black hole — or its silhouette, anyway — "is the stuff of science fiction," Harrison said.
+And we've seen just the project's first few photos, she added: "They're only going to get better."
+Astronomers to Peer into a Black Hole for 1st Time with Event Horizon Telescope This Huge Black Hole Is Spinning at Half the Speed of Light!
+8 Baffling Astronomy Mysteries Mike Wall's book about the search for alien life, " Out There (opens in new tab) " (Grand Central Publishing, 2018; illustrated by Karl Tate ), is out now.
+Follow him on Twitter @michaeldwall .
+Follow us on Twitter @Spacedotcom or Facebook .
+Join our Space Forums to keep talking space on the latest missions, night sky and more!
+And if you have a news tip, correction or comment, let us know at: community@space.com.
+Mike Wall Senior Space Writer Michael Wall is a Senior Space Writer with Space.com (opens in new tab) and joined the team in 2010.
+He primarily covers exoplanets, spaceflight and military space, but has been known to dabble in the space art beat.
+His book about the search for alien life, "Out There," was published on Nov. 13, 2018.
+Before becoming a science writer, Michael worked as a herpetologist and wildlife biologist.
+He has a Ph.D. in evolutionary biology from the University of Sydney, Australia, a bachelor's degree from the University of Arizona, and a graduate certificate in science writing from the University of California, Santa Cruz.
+To find out what his latest project is, you can follow Michael on Twitter.
+Sign Up for e-mail newsletters Get breaking space news and the latest updates on rocket launches, skywatching events and more!
+Contact me with news and offers from other Future brands Receive email from us on behalf of our trusted partners or sponsors Thank you for signing up to Space.
+You will receive a verification email shortly.
+There was a problem.
+Please refresh the page and try again.
+By submitting your information you agree to the Terms & Conditions (opens in new tab) and Privacy Policy (opens in new tab) and are aged 16 or over.
+MORE FROM SPACE... 1 SpaceX rolls rocket to pad ahead of Crew-5 astronaut launch (photos) 2 World Space Week 2022 centers space sustainability for the future 3 How to watch SpaceX's Crew-5 astronaut launch for NASA on Oct. 5 for free online 4 Best space books for 2022 5 Watch SpaceX launch 52 more Starlink satellites, land rocket tonight Space is part of Future US Inc, an international media group and leading digital publisher.
+Visit our corporate site (opens in new tab) .
+About Us (opens in new tab) Terms and conditions (opens in new tab) Privacy policy (opens in new tab) Cookies policy (opens in new tab) Accessibility Statement (opens in new tab) Topics (opens in new tab) Advertise with us (opens in new tab) Web notifications (opens in new tab) Careers (opens in new tab) © Future US, Inc. Full 7th Floor, 130 West 42nd Street, New York, NY 10036.
+Begin comScore Tag End comScore Tag Google Tag Manager End Google Tag Manager document assets - added by the article itself

@@ -1,0 +1,91 @@
+[IE]><script>window.isIE = true</script><!
+[endif] Skip to main content contentType : // xml version="1.0" encoding="utf-8"?
+Generator: Adobe Illustrator 16.2.1, SVG Export Plug-In .
+SVG Version: 6.00 Build 0) Space Search Subscribe RSS (opens in new tab) (opens in new tab) (opens in new tab) (opens in new tab) (opens in new tab) All About Space Magazine (opens in new tab) (opens in new tab) Why subscribe?
+Your monthly guide to stargazing & space science Try a single issue or save on a subscription Issues delivered straight to your door or device From $3.99 (opens in new tab) View (opens in new tab) News Astronomy Spaceflight The Moon Our Solar System Skywatching More Videos Search for LIfe Technology Entertainment Reference SpaceX Expert Voices Forums All Topics Subscribe to "All About Space" Magazine!
+Space.com Store About Us Web Notifications Trending Artemis 1 updates Best Telescopes Best Star Projectors Best Binoculars Lego Star Wars deals Best Drones Russia-Ukraine war space impacts Full Moon Calendar Solar System Planets Night Sky Tonight Calendar Space is supported by its audience.
+When you purchase through links on our site, we may earn an affiliate commission.
+Here’s why you can trust us .
+Home News Science & Astronomy The Event Horizon Telescope Is Trying to Take the First-Ever Photo of a Black Hole By Doris Elin Urrutia published 8 April 2019 Snapping a black hole's silhouette is like photographing an orange on the moon.
+(opens in new tab) (opens in new tab) (opens in new tab) (opens in new tab) (opens in new tab) Astronomers orchestrated radio dish telescopes across the world into an Earth-size virtual camera for a bold new experiment attempting to deliver the first-ever image of a black hole.
+The telescope collaboration is set to make a big announcement of results this week , and members also described their research approach at a talk in March.
+Black holes are extreme warps in space-time that are so strong, their massive gravity doesn't even let light escape once it gets close enough.
+The astronomers' idea is to photograph the circular opaque silhouette of a black hole cast on a bright background.
+The shadow's edge is the event horizon, a black hole's point of no return.
+A picture is worth a thousand words, and a photograph of a black hole would be an important tool for understanding astrophysics, cosmology and the role of black holes in the universe.
+Related: 'Groundbreaking Result' Coming from Black-Hole Hunting Event Horizon Telescope A still of a video simulation that shows what a black hole shadow might look like.
+The animation was featured in a short movie about the Event Horizon Telescope (EHT) project, produced by Peter Galison and Chyld King.
+Watch a livestreamed announcement of the Event Horizon Telescope's first results on April 10, 2019 at 9 a.m. EDT here .
+(Image credit: EHT Outreach/ YouTube ) If an astronaut laid an orange on the surface of the moon, the citrus fruit would be very difficult to view from Earth.
+Black holes are just as hard to spot, said Sheperd Doeleman, the project director of an ambitious new project called the Event Horizon Telescope.
+Doeleman shared this anecdote with an audience at a panel at the South by Southwest (SXSW) festival in Austin, Texas, last month.
+Doeleman and fellow collaborators Sera Markoff, Peter Galison and Dimitrios Psaltis illuminated how the project works during the SXSW event, " EHT: A Planetary Effort to Photograph a Black Hole ."
+Black holes are massive structures when compared to planets and humans.
+But what seems large to us, is, on a galactic scale, teeny-tiny.
+So photographing a black hole's event horizon complicated.
+This artist's impression depicts a rapidly spinning supermassive black hole surrounded by an accretion disk.
+This thin disk of rotating material consists of the leftovers of a sun-like star which was ripped apart by the tidal forces of the black hole.
+Shocks in the colliding debris as well as heat generated in accretion led to a burst of light, resembling a supernova explosion.
+(Image credit: ESO, ESA/Hubble, M. Kornmesser/N.
+Bartmann) "One of the EHT targets is about 10 percent of the size of our solar system," Sera Markoff, an astrophysicist from the University of Amsterdam, said during the panel.
+The supermassive black hole at the center of the Milky Way, called Sagittarius A* , is about the size of the orbit of Mercury, Doeleman added.
+If a spaceship could zip astronomers out of the Milky Way, which is about 50 billion times bigger than Sagittarius A*, according to Markoff, then spotting this black hole among the billions of other stars and planets in the galaxy would be quite tricky.
+To observe the supermassive black hole at the center of the Milky Way galaxy, or to view another of the project's targets — the supermassive black hole at the core of the supergiant elliptical galaxy Messier 87 — the EHT team had to turn Earth into a virtual telescope platform.
+That's because the power of a telescope to resolve images is limited to the size of its dish, and by using an array of instruments across the world, the team is effectively breaking up the dish and scattering the pieces globally to make one big space eye.
+Related: This Huge Black Hole Is Spinning at Half the Speed of Light!
+The South Pole Telescope illuminated by the Milky Way and the Aurora Australis (Southern Lights).
+Watch a livestreamed announcement of the Event Horizon Telescope's first results on April 10, 2019 at 9 a.m. EDT here .
+(Image credit: Daniel Michalik/South Pole Telescope) The radio telescope observatories involved in EHT's 2017 observations were ALMA (Atacama Large Millimeter/submillimeter Array in Chile; APEX (Atacama Pathfinder Experiment) in Chile; IRAM 30m (Institut de RadioAstronomie Millimétrique) in Spain; LMT (Large Millimeter Telescope) in Mexico; SMT (Submillimeter Telescope) in Arizona; JCMT (James Clerk Maxwell Telescope) in Hawaii; SMA (SubMillimeter Array) in Hawaii; and SPT (South Pole Telescope) in Antarctica.
+Coordinated observations were also made in the X-ray and gamma-ray bands.
+Sagittarius A* is dormant, which means it doesn't actively consume a lot of nearby stars and gas, releasing radiation.
+An active black hole lurks inside Messier 87.
+To view the neighborhood supermassive black hole and the one churning farther away, the telescopes need to observe "the entire range of the electromagnetic spectrum, from the radio up to the gamma rays," Markoff said.
+The Event Horizon Telescope network, mapped on GoogleMaps with data from NASA and TerraMetrics.
+Watch a livestreamed announcement of the Event Horizon Telescope's first results on April 10, 2019 at 9 a.m. EDT here .
+(Image credit: Event Horizon Telescope) Was Einstein 100% right?
+At the project's core, its 200 scientists want to answer two questions, according to Psaltis, an astronomer and physicist at the University of Arizona.
+The first is simply if photographing a black hole is possible.
+But the second important thing they ask is if Einstein was 100 percent right about how black holes behave.
+"Einstein told us 100 years ago exactly what the size and the shape of that [black hole's] shadow should be.
+If we could lay a ruler across that shadow, we'd be able to test Einstein's theory of the black hole boundary," Doeleman said.
+The team also wanted to build models that would describe black holes in various circumstances, which will then be compared to EHT observations.
+This infographic shows a simulation of the outflow (bright red) from a black hole and the accretion disk around it, with simulated images of the three potential shapes of the event horizon's shadow.
+(Image credit: ESO/N.
+Bartmann/A.
+Broderick/C.K.
+Chan/D.
+Psaltis/F.
+Ozel) In the work described at SXSW, the team used graphics processing units (GPUs), like the ones used in your favorite video game consoles or your computer, to model all the hypothetical varieties of a black hole environment.
+They produced hundreds of gigabytes of 3D volume data to model the possibilities.
+Psaltis said photons, plasma, gas and magnetic fields are all described in a black hole's forecast.
+Once they get one, the team can compare an image of a black hole's shadow to the different scenarios processed by the GPUs in order to make the most realistic simulation of how a black hole behaves, based on our current understanding of physics.
+"What the black hole image could do for us, if we can get it, would be to take something that is the most extreme, the strangest prediction of general relativity, one of the great accomplishments of the human mind, [and] combine it with the most advanced electronics with a planetary scale collaboration with the most advanced statistics [and] new imaging techniques," Galison, a professor at Harvard University, said during the panel.
+"It's like making a new camera with a new kind of film, a new kind of lens, combining it with other cameras, all at once, and if that could happen, if we could actually get in and see right up close to the horizon."
+Galison added that the first picture of a black hole would prove, beyond a shadow of a doubt — pun intended — that these gargantuan, mighty and elusive structures do exist.
+Mysterious 'Cow' Blast in Space May Reveal Birth of a Black Hole This Trippy Simulation Shows How Monster Black Holes Glow Before They Collide Rarely Seen Middleweight Black Hole Gobbles Star Follow Doris Elin Salazar on Twitter @salazar_elin .
+Follow us on Twitter @Spacedotcom and on Facebook .
+Join our Space Forums to keep talking space on the latest missions, night sky and more!
+And if you have a news tip, correction or comment, let us know at: community@space.com.
+Doris Elin Urrutia Contributing Writer Doris is a science journalist and Space.com contributor.
+She received a B.A.
+in Sociology and Communications at Fordham University in New York City.
+Her first work was published in collaboration with London Mining Network, where her love of science writing was born.
+Her passion for astronomy started as a kid when she helped her sister build a model solar system in the Bronx.
+She got her first shot at astronomy writing as a Space.com editorial intern and continues to write about all things cosmic for the website.
+Doris has also written about microscopic plant life for Scientific American’s website and about whale calls for their print magazine.
+She has also written about ancient humans for Inverse, with stories ranging from how to recreate Pompeii’s cuisine to how to map the Polynesian expansion through genomics.
+She currently shares her home with two rabbits.
+Follow her on twitter at @salazar_elin.
+Sign Up for e-mail newsletters Get breaking space news and the latest updates on rocket launches, skywatching events and more!
+Contact me with news and offers from other Future brands Receive email from us on behalf of our trusted partners or sponsors Thank you for signing up to Space.
+You will receive a verification email shortly.
+There was a problem.
+Please refresh the page and try again.
+By submitting your information you agree to the Terms & Conditions (opens in new tab) and Privacy Policy (opens in new tab) and are aged 16 or over.
+MORE FROM SPACE... 1 Nikon Nikkor Z 24-70mm f/2.8 S lens review 2 Super-Earths are more common and more habitable than Earth.
+Astronomers are finding more of the billions out there.
+3 Gamma rays from a dwarf galaxy solve an astronomical puzzle 4 What is the moon phase today?
+Lunar phases 2022 5 Rare diamonds suggest water lurks much deeper in Earth's interior than scientists thought Space is part of Future US Inc, an international media group and leading digital publisher.
+Visit our corporate site (opens in new tab) .
+About Us (opens in new tab) Terms and conditions (opens in new tab) Privacy policy (opens in new tab) Cookies policy (opens in new tab) Accessibility Statement (opens in new tab) Topics (opens in new tab) Advertise with us (opens in new tab) Web notifications (opens in new tab) Careers (opens in new tab) © Future US, Inc. Full 7th Floor, 130 West 42nd Street, New York, NY 10036.
+Begin comScore Tag End comScore Tag Google Tag Manager End Google Tag Manager document assets - added by the article itself

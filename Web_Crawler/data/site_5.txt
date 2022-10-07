@@ -1,0 +1,70 @@
+[IE]><script>window.isIE = true</script><!
+[endif] Skip to main content contentType : // xml version="1.0" encoding="utf-8"?
+Generator: Adobe Illustrator 16.2.1, SVG Export Plug-In .
+SVG Version: 6.00 Build 0) Space Search Subscribe RSS (opens in new tab) (opens in new tab) (opens in new tab) (opens in new tab) (opens in new tab) All About Space Magazine (opens in new tab) (opens in new tab) Why subscribe?
+Your monthly guide to stargazing & space science Try a single issue or save on a subscription Issues delivered straight to your door or device From $3.99 (opens in new tab) View (opens in new tab) News Astronomy Spaceflight The Moon Our Solar System Skywatching More Videos Search for LIfe Technology Entertainment Reference SpaceX Expert Voices Forums All Topics Subscribe to "All About Space" Magazine!
+Space.com Store About Us Web Notifications Trending Artemis 1 updates Best Telescopes Best Star Projectors Best Binoculars Lego Star Wars deals Best Drones Russia-Ukraine war space impacts Full Moon Calendar Solar System Planets Night Sky Tonight Calendar Space is supported by its audience.
+When you purchase through links on our site, we may earn an affiliate commission.
+Here’s why you can trust us .
+Home News Science & Astronomy How many black holes are there in the universe?
+By Paul Sutter published 16 November 2021 Short answer: a lot.
+(opens in new tab) (opens in new tab) (opens in new tab) (opens in new tab) (opens in new tab) Artist's illustration of a supermassive black hole emitting a jet of energetic particles.
+(Image credit: NASA/JPL-Caltech) Paul M. Sutter is an astrophysicist at SUNY Stony Brook and the Flatiron Institute, host of " Ask a Spaceman " and " Space Radio ," and author of " How to Die in Space ."
+Sutter contributed this article to Space.com's Expert Voices: Op-Ed & Insights .
+Black holes are notoriously hard to detect, since they are as black as the space surrounding them.
+We can only pinpoint them in special circumstances, like when they pull down gas from a neighboring star or merge together, releasing a flood of gravitational waves .
+So how many black holes are out there?
+To answer the question, astronomers have to turn to theoretical calculations to make estimates.
+In a recent study, researchers determined that there are potentially millions of yet-to-be-detected small black holes in our cosmic neighborhood.
+This means that about 1% of all the matter in the universe is bound up inside black holes.
+Related: Black holes of the universe (images) Black hole ingredients To make a black hole, you need to make stars, because black holes come from the deaths of stars.
+So to figure out how many black holes are in the universe, the researchers behind the study, which recently appeared in the preprint journal arXiv (opens in new tab) and has been accepted for publication in The Astrophysical Journal, had to take a few steps back.
+The first step is to model galaxy evolution over the billions of years of cosmic history.
+Galaxies are the homes of stars , after all, and their overall evolution affects how many of each kind of star appears inside them.
+For example, some galaxies can steadily form new stars year after cosmic year.
+Others may suffer merger events that trigger a round of incredibly high star formation, only for them to burn out and produce nothing of note ever again.
+The astronomers took known observations of galaxy statistics across cosmic time, noting the general trend of galactic merger rates and demographics.
+Another key factor is the so-called "metallicity" of a galaxy, which is a measure of the amount of elements other than hydrogen and helium inside a galaxy (astronomers call these "metals").
+Bigger galaxies will have more gas, which enables them to form more stars.
+But more metals can enhance the cooling of gas, which in turn helps galaxies to efficiently churn out new stars.
+Black hole recipes With these building blocks, the astronomers had a model of the stellar population within galaxies, telling them how many small stars, medium stars and big stars appear in the universe .
+And then they needed to trace the evolution — and most importantly, deaths — of those stars.
+To do that, they turned to simulations, which connect the properties of a particular star (its mass and metallicity) to its lifetime and eventual demise.
+Only a fraction of the very largest stars produce black holes, and those simulations tell the astronomers what percentage of a galaxy's stars go lights-out every year.
+Next, the astronomers had to track the evolution of binary systems , as black holes can feed off of sibling stars, becoming engorged on their gas in the process.
+Thus a black hole formed in a binary system will end up being larger than a black hole born solo.
+As the black holes age, they continue to feed on any surrounding gas, which the astronomers also estimated.
+Lastly, occasionally black holes find each other in the darkness of interstellar space and merge together.
+So to produce an accurate survey, the astronomers had to estimate the rate of black-hole mergers within each galaxy.
+Related: Scientists spot merger of two mismatched black holes Related stories: — What happens at the center of a black hole?
+— Black holes: Facts, theories and definitions — Primordial black holes may flood the universe.
+Could one hit Earth?
+The great black hole census Putting all the pieces together, the astronomers were able to track the population of black holes over the course of billions of years.
+They produced what is called a "mass function," which is a sort of astronomical census, reporting how many of each size of black hole exists at any point in time.
+Not surprisingly, the largest black holes, called supermassive black holes , are much rarer than their smaller cousins.
+The researchers found that in every cubic megaparsec of space (where a megaparsec is one million parsecs, or 3.26 million light-years), our universe hosts roughly 50 million solar masses worth of black holes.
+If each black hole is a few times the mass of the sun, that translates to around 10 million individual black holes in that same volume.
+To put that in perspective, the total amount of mass contained by black holes is about 10% of the mass contained in stars.
+So for all the stars you see in the night sky, there are a lot of black holes lurking between them.
+Supermassive black holes, on the other hand, are extremely rare, with each galaxy usually hosting only one of those monsters.
+Altogether, black holes account for about 1% of all the baryonic (as in, not dark matter) matter in the cosmos today.
+By far most of the baryonic matter is found in loose nebulae.
+But still, that's nothing to sneeze at, and it means that black holes are frighteningly common.
+Follow us on Twitter @Spacedotcom (opens in new tab) or on Facebook (opens in new tab) .
+Join our Space Forums to keep talking space on the latest missions, night sky and more!
+And if you have a news tip, correction or comment, let us know at: community@space.com.
+Paul Sutter Space.com Contributor Paul M. Sutter is an astrophysicist at SUNY Stony Brook and the Flatiron Institute in New York City.
+Paul received his PhD in Physics from the University of Illinois at Urbana-Champaign in 2011, and spent three years at the Paris Institute of Astrophysics, followed by a research fellowship in Trieste, Italy, His research focuses on many diverse topics, from the emptiest regions of the universe to the earliest moments of the Big Bang to the hunt for the first stars.
+As an "Agent to the Stars," Paul has passionately engaged the public in science outreach for several years.
+He is the host of the popular "Ask a Spaceman!"
+podcast, author of "Your Place in the Universe" and "How to Die in Space" and he frequently appears on TV — including on The Weather Channel, for which he serves as Official Space Specialist.
+Sign Up for e-mail newsletters Get breaking space news and the latest updates on rocket launches, skywatching events and more!
+Contact me with news and offers from other Future brands Receive email from us on behalf of our trusted partners or sponsors Thank you for signing up to Space.
+You will receive a verification email shortly.
+There was a problem.
+Please refresh the page and try again.
+By submitting your information you agree to the Terms & Conditions (opens in new tab) and Privacy Policy (opens in new tab) and are aged 16 or over.
+MORE FROM SPACE... 1 Best mirrorless cameras in 2022 2 SpaceX still on track to launch Crew-5 astronaut mission for NASA Wednesday 3 SpaceX rolls rocket to pad ahead of Crew-5 astronaut launch (photos) 4 World Space Week 2022 centers space sustainability for the future 5 How to watch SpaceX's Crew-5 astronaut launch for NASA on Oct. 5 for free online Space is part of Future US Inc, an international media group and leading digital publisher.
+Visit our corporate site (opens in new tab) .
+About Us (opens in new tab) Terms and conditions (opens in new tab) Privacy policy (opens in new tab) Cookies policy (opens in new tab) Accessibility Statement (opens in new tab) Topics (opens in new tab) Advertise with us (opens in new tab) Web notifications (opens in new tab) Careers (opens in new tab) © Future US, Inc. Full 7th Floor, 130 West 42nd Street, New York, NY 10036.
+Begin comScore Tag End comScore Tag Google Tag Manager End Google Tag Manager document assets - added by the article itself

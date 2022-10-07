@@ -1,0 +1,77 @@
+[IE]><script>window.isIE = true</script><!
+[endif] Skip to main content contentType : // xml version="1.0" encoding="utf-8"?
+Generator: Adobe Illustrator 16.2.1, SVG Export Plug-In .
+SVG Version: 6.00 Build 0) Space Search Subscribe RSS (opens in new tab) (opens in new tab) (opens in new tab) (opens in new tab) (opens in new tab) All About Space Magazine (opens in new tab) (opens in new tab) Why subscribe?
+Your monthly guide to stargazing & space science Try a single issue or save on a subscription Issues delivered straight to your door or device From $3.99 (opens in new tab) View (opens in new tab) News Astronomy Spaceflight The Moon Our Solar System Skywatching More Videos Search for LIfe Technology Entertainment Reference SpaceX Expert Voices Forums All Topics Subscribe to "All About Space" Magazine!
+Space.com Store About Us Web Notifications Trending Artemis 1 updates Best Telescopes Best Star Projectors Best Binoculars Lego Star Wars deals Best Drones Russia-Ukraine war space impacts Full Moon Calendar Solar System Planets Night Sky Tonight Calendar Space is supported by its audience.
+When you purchase through links on our site, we may earn an affiliate commission.
+Here’s why you can trust us .
+Home News Science & Astronomy Bizarre Black Holes Explained: Q & A With Physicist Kip Thorne By Clara Moskowitz published 13 August 2012 (opens in new tab) (opens in new tab) (opens in new tab) (opens in new tab) (opens in new tab) Simulated view of a black hole in front of the Large Magellanic Cloud.
+(Image credit: Alain R. | Wikimedia Commons) Black holes are so strange, so counterintuitive, it's hard to believe they actually exist.
+Yet scientists say the evidence that black holes are real is almost rock-solid.
+Among the pioneering physicists who've shed light on these dark objects is Kip Thorne, an emeritus professor at Caltech and architect of some of the leading cosmological theories of how black holes warp space and time.
+Thorne describes some of the latest thinking on black holes in a paper published in the Aug. 3 issue of the journal Science.
+We caught up with Thorne about warped space, the nature of singularities inside black holes , and the search for a grand unified theory of physics.
+SPACE.com: In your paper, you say black holes are objects made wholly and solely of space-time .
+How can that be?
+Aren't they also made of mass?
+Kip Thorne: Yes, but mass is equivalent to energy, according to Einstein, and mass or energy can take many different forms.
+It can take the form of energy in a blowing wind, it can take the form, in this case, of mass or energy that is tied up in the curvature of space-time itself.
+[ Photos: Black Holes of the Universe ] SPACE.com: When an object like a star becomes a black hole, what happens to its mass?
+Thorne: The matter of which a star is made, the atoms of which a star is made, are destroyed at the center of a black hole, when the black hole is created.
+The matter is gone, but the mass, in the sense of mass and energy being equivalent, has gone into the warped space-time of the black hole.
+SPACE.com: You also talk about collisions between two black holes.
+Is this something that we think happens often?
+Thorne: It happens, we think, in our own galaxy about once every 100,000 years.
+We're not sure of that number — it could be every 10,000 years or once every 10 million years.
+Looking out through the entire observable universe, it's going to happen more like once a minute or once a second.
+SPACE.com: What happens to space-time when two black holes collide?
+Thorne: Each black hole spins on its axis like the Earth spins.
+That spin creates two vortexes of twisting space, somewhat like vortexes in a bathtub or a whirlpool.
+There's one vortex of twisting space that sticks out of the north pole of the black hole, and one vortex that sticks out of the south pole.
+That's one aspect of a black hole's warped space-time.
+There are others, but let's just talk about that one.
+When two black holes orbit around each other and collide and merge, those vortexes then start sweeping around and around the merged black holes .
+They get deposited onto the surface, what we call the horizon, of the merged black holes, so you now have four of these vortexes on the horizon.
+And as the black hole turns, these vortexes sweep back like the spiral arms of a galaxy, or like water from a whirling sprinkler; they reach outward and backwards and they become these gravitational waves.
+SPACE.com: Is there any chance that black holes don't exist?
+Thorne: We have very extensive observational evidence by now of black holes.
+The central dark object at the middle of our galaxy has been studied in beautiful observations [showing] bright stars that travel around the central object in orbits rather like the orbit of a comet.
+They swing in close to the object and then are thrown back out.
+The object can be weighed and it seems to weigh between 3 and 4 million times what the sun weighs.
+It's not producing any light, but it does produce, in erratic ways over time, bursts of radio waves.
+This object is just like what we think a black hole should be.
+This still from a computer animation shows a simulation of a giant space cloud falling into Sagittarius A*, the supermassive black hole at the center of our own Milky Way galaxy, in mid-2013.
+Image added on July 2, 2012.
+(Image credit: European Research Media Center) So I think in the minds of astronomers now, there's no doubt.
+There certainly was doubt 10, 20, 30 years ago.
+But the observational data from electromagnetic observations have become so good, so impressive, that I don't think there's any doubt anymore.
+SPACE.com: When people talk about black holes, they talk about singularities at their centers .
+Is a singularity really a spot of infinite density and zero volume?
+Thorne: That's one way to describe it, but the singularity, like the black hole itself, we believe is quite rich in its structure.
+[ 8 Shocking Things We Learned From Stephen Hawking's Book ] As you near the singularity, we expect that it stretches and squeezes you in a chaotic way that ultimately kills you and destroys the matter of which you're made.
+And when you get right to the singularity itself, the laws of physics as we know them break down and the laws of quantum gravity take hold.
+Since we don't understand those laws very well yet, we can't say what the nature of the very core of the singularity is.
+SPACE.com: To truly understand what's going on inside black holes, are we going to need a grand unified theory?
+Thorne: We're going to need a definitive quantum theory of gravity, which is part of a grand unified theory — it's the main missing piece.
+We have to have a combination of general relativity that describes the warping of space and time, and quantum physics , which describes the uncertainties in that warping and how they change.
+Follow Clara Moskowitz on Twitter @ClaraMoskowitz or SPACE.com @Spacedotcom .
+We're also on Facebook & Google+ .
+Join our Space Forums to keep talking space on the latest missions, night sky and more!
+And if you have a news tip, correction or comment, let us know at: community@space.com.
+Clara Moskowitz Assistant Managing Editor Clara Moskowitz is a science and space writer who joined the Space.com team in 2008 and served as Assistant Managing Editor from 2011 to 2013.
+Clara has a bachelor's degree in astronomy and physics from Wesleyan University, and a graduate certificate in science writing from the University of California, Santa Cruz.
+She covers everything from astronomy to human spaceflight and once aced a NASTAR suborbital spaceflight training program for space missions.
+Clara is currently Associate Editor of Scientific American.
+To see her latest project is, follow Clara on Twitter.
+Sign Up for e-mail newsletters Get breaking space news and the latest updates on rocket launches, skywatching events and more!
+Contact me with news and offers from other Future brands Receive email from us on behalf of our trusted partners or sponsors Thank you for signing up to Space.
+You will receive a verification email shortly.
+There was a problem.
+Please refresh the page and try again.
+By submitting your information you agree to the Terms & Conditions (opens in new tab) and Privacy Policy (opens in new tab) and are aged 16 or over.
+MORE FROM SPACE... 1 Pictures from space!
+Our image of the day 2 Pregnancy in space: Studying stem cells in zero gravity may determine whether it's safe 3 Best cameras for low light photography 4 Best cameras for photos and videos 2022 5 Major solar flare disrupts Hurricane Ian disaster response Space is part of Future US Inc, an international media group and leading digital publisher.
+Visit our corporate site (opens in new tab) .
+About Us (opens in new tab) Terms and conditions (opens in new tab) Privacy policy (opens in new tab) Cookies policy (opens in new tab) Accessibility Statement (opens in new tab) Topics (opens in new tab) Advertise with us (opens in new tab) Web notifications (opens in new tab) Careers (opens in new tab) © Future US, Inc. Full 7th Floor, 130 West 42nd Street, New York, NY 10036.
+Begin comScore Tag End comScore Tag Google Tag Manager End Google Tag Manager document assets - added by the article itself

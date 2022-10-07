@@ -1,0 +1,59 @@
+[IE]><script>window.isIE = true</script><!
+[endif] Skip to main content contentType : // xml version="1.0" encoding="utf-8"?
+Generator: Adobe Illustrator 16.2.1, SVG Export Plug-In .
+SVG Version: 6.00 Build 0) Space Search Subscribe RSS (opens in new tab) (opens in new tab) (opens in new tab) (opens in new tab) (opens in new tab) All About Space Magazine (opens in new tab) (opens in new tab) Why subscribe?
+Your monthly guide to stargazing & space science Try a single issue or save on a subscription Issues delivered straight to your door or device From $3.99 (opens in new tab) View (opens in new tab) News Astronomy Spaceflight The Moon Our Solar System Skywatching More Videos Search for LIfe Technology Entertainment Reference SpaceX Expert Voices Forums All Topics Subscribe to "All About Space" Magazine!
+Space.com Store About Us Web Notifications Trending Artemis 1 updates Best Telescopes Best Star Projectors Best Binoculars Lego Star Wars deals Best Drones Russia-Ukraine war space impacts Full Moon Calendar Solar System Planets Night Sky Tonight Calendar Space is supported by its audience.
+When you purchase through links on our site, we may earn an affiliate commission.
+Here’s why you can trust us .
+Home News Science & Astronomy Explosion from the early universe illuminates secret black hole By Chelsea Gohd published 29 March 2021 (opens in new tab) (opens in new tab) (opens in new tab) (opens in new tab) (opens in new tab) This artistic impression illustrates a new black hole that was discovered through gravitational lensing using light from an ancient cosmic explosion.
+(Image credit: Carl Knox, OzGrav) Light coming from an explosion in the early universe has illuminated a black hole that astronomers think could expand their understanding of how the celestial objects form.
+Three billion years ago, a gamma-ray burst (known as GRB 950830) exploded out into the universe.
+In 1995, astronomers observed the event, essentially peering "back in time" with the BATSE (Burst And Transient Source Experiment ) high-energy astrophysics experiment on the Compton Gamma-Ray Observatory, which was launched in 1991 on the space shuttle Atlantis .
+Now, astronomers used the light coming from the ancient explosion to detect an intermediate-mass black hole (IMBH), which are elusive and challenging to spot.
+The light coming from the gamma-ray burst allowed the team to use a phenomenon called gravitational lensing to find an IMBH.
+This finding supports the existence of IMBHs, as they are so hard to detect that some scientists question whether or not they're even real.
+This work also sheds light on how different types of black holes might form and how supermassive black holes (SMBH) could get so massive.
+Related: No escape: Dive into a black hole (infographic) Intermediate-mass black holes are just what they sound like: celestial middleweights.
+The objects are fairly massive: larger than stellar black holes (SBH) but not as massive as SMBH, perhaps clocking in at between 100 and 100,000 times the mass of our sun.
+However, these midsize black holes are especially challenging to detect "because they are smaller and less active than supermassive black holes; they do not have readily available sources of fuel, nor as strong a gravitational pull to draw stars and other cosmic material which would produce telltale X-ray glows," according to NASA .
+"If a black hole is not accreting matter, it is quite difficult to detect, as by name and nature they are black," James Paynter, an astrophysicist at the University of Melbourne in Australia who led this research, told Space.com.
+"Only the effects of their gravity can betray the existence of a quiescent black hole."
+But, while IMBHs might not be easily spotted by luminous X-ray emissions like a supermassive black hole would, scientists in this new study were able to use gravitational lensing to do the trick.
+Gravitational lensing is a phenomenon that occurs when an object (like a black hole) acts like a lens, distorting the light coming from a faraway light source (like a cosmic explosion).
+This distortion signals astronomers that there must be a massive object in the way.
+To go a step further and determine what type of object is causing this lensing, the team had to determine its mass.
+Because the object's mass falls within the range of an IMBH, they decided it was the most likely possibility.
+They were also able to weed out contenders like globular clusters for not being dense enough and dark matter haloes for not being compact enough to cause gravitational lensing.
+By discovering the IMBH using this technique, it "tells us something about how common they [IMBH] are," Rachel Webster, an astronomer at the University of Melbourne and co-author of this study, told Space.com.
+"If they were very, very rare then we would be most unlikely to see even one case of gravitational lensing.
+It's all about statistics and probability."
+This IMBH detection could also reveal information about their larger cousins, SMBH.
+"It is important to discover these objects to fill the observational gap between stellar black holes (SBH) and SMBH," Paynter said.
+"Currently, we do not know how SMBH are able to grow to such huge masses within the age of the universe.
+There is simply not enough stuff for them to accrete, nor enough time."
+The clue to the SMBH puzzle may lie in IMBHs, scientists hope.
+"If a seed population of IMBHs exist, it begins to fill in this gap.
+Where the IMBHs came from is another matter… they may be formed from the merger/collapse of massive, Hydrogen-pure stars in the early universe, or they may be older, primordial black holes formed during the very first phases of the universe," Paynter added.
+While this work is a step forward in not only proving the existence of IMBH, but in exploring how different types of black holes develop and exist out in the cosmos, there is still much to be explored and learned about this IMBH.
+"We now don't know if this IMBH is wandering the cosmos alone, or if it is bound to a galaxy or cluster of stars.
+So while we are able to estimate the prevalence of these objects in the universe, we can't pinpoint them to a location or specific 'habitat,'" Paynter said.
+This work was described in a study published today (opens in new tab) (March 29) in the journal Nature Astronomy.
+Email Chelsea Gohd at cgohd@space.com or follow her on Twitter @chelsea_gohd.
+Follow us on Twitter @Spacedotcom and on Facebook.
+Join our Space Forums to keep talking space on the latest missions, night sky and more!
+And if you have a news tip, correction or comment, let us know at: community@space.com.
+Chelsea Gohd Senior Writer Chelsea “Foxanne” Gohd joined Space.com in 2018 and is now a Senior Writer, writing about everything from climate change to planetary science and human spaceflight in both articles and on-camera in videos.
+With a degree in Public Health and biological sciences, Chelsea has written and worked for institutions including the American Museum of Natural History, Scientific American, Discover Magazine Blog, Astronomy Magazine and Live Science.
+When not writing, editing or filming something space-y, Chelsea "Foxanne" Gohd is writing music and performing as Foxanne, even launching a song to space in 2021 with Inspiration4.
+You can follow her on Twitter @chelsea_gohd and @foxannemusic .
+Sign Up for e-mail newsletters Get breaking space news and the latest updates on rocket launches, skywatching events and more!
+Contact me with news and offers from other Future brands Receive email from us on behalf of our trusted partners or sponsors Thank you for signing up to Space.
+You will receive a verification email shortly.
+There was a problem.
+Please refresh the page and try again.
+By submitting your information you agree to the Terms & Conditions (opens in new tab) and Privacy Policy (opens in new tab) and are aged 16 or over.
+MORE FROM SPACE... 1 How massive stars steal planets 2 See the mysterious October Camelopardalid meteor shower peak tonight (Oct. 6) 3 Explore the moon like never before with All About Space magazine 4 Watch SpaceX's Crew-5 astronaut flight to the International Space Station live online 5 Everything that we know about Star Trek: Discovery Season 5 Space is part of Future US Inc, an international media group and leading digital publisher.
+Visit our corporate site (opens in new tab) .
+About Us (opens in new tab) Terms and conditions (opens in new tab) Privacy policy (opens in new tab) Cookies policy (opens in new tab) Accessibility Statement (opens in new tab) Topics (opens in new tab) Advertise with us (opens in new tab) Web notifications (opens in new tab) Careers (opens in new tab) © Future US, Inc. Full 7th Floor, 130 West 42nd Street, New York, NY 10036.
+Begin comScore Tag End comScore Tag Google Tag Manager End Google Tag Manager document assets - added by the article itself
