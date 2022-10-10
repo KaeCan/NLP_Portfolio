@@ -40,3 +40,14 @@ This is a Python notebook documenting my first experience and usage of NLTK's in
 This is a program that builds bigram and unigram dictionaries for English, French, and Italian using some training data (here is a [narrative](https://github.com/KaeCan/NLP_Portfolio/blob/main/N-grams/N-grams_Narrative.pdf) on n-grams). For the dictionaries, the keys are the unigram/bigram text, and the value is the count of the unigram/bigram. I use these dictionaries to calculate the probability of a given line of text's likelihood of being a particular language (English, Italian, or French). I used Laplace smoothing for calculations. I outputted my program's guesses for each line of text into this file [here](https://github.com/KaeCan/NLP_Portfolio/blob/main/N-grams/probs_output.txt).
 
 There are two programs: the [first](https://github.com/KaeCan/NLP_Portfolio/blob/main/N-grams/ngrams_builder.py) solely builds and pickles the unigram and bigram dictionaries for each language (time-consuming), and the [second](https://github.com/KaeCan/NLP_Portfolio/blob/main/N-grams/ngrams_probability.py) will unpickle the dictionaries and actually run calculations and output . **If the pickle files are not present already, the first program must be run before the second.**
+
+---
+## Web Crawler
+
+This is a basic web-crawling [program](https://github.com/KaeCan/NLP_Portfolio/blob/main/Web_Crawler/corpus_builder.py) that starts at a given URL, and scrapes text off of up to N links to other URLs on that page. The ideal starting URL would be of a topic we want to learn more about. We have chosen the topic of black holes in Astronomy.
+
+We use this scraped data and find the most common terms relating to our topic using TF-IDF (term frequency) (program [here](https://github.com/KaeCan/NLP_Portfolio/blob/main/Web_Crawler/wordExtractor.py), contributed to by my project [partner](https://github.com/RyanBanafshay)). Finally, we built a knowledge base using what we deem as the top 10 most significant terms.
+
+Our knowledge base is a pickled dictionary prepared by associating the terms we've selected with all sentences related to their respective term (program [here](https://github.com/KaeCan/NLP_Portfolio/blob/main/Web_Crawler/knowledge_builder.py)).
+
+In the future, this dictionary will be used in the production of a basic chat bot.
