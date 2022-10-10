@@ -28,7 +28,7 @@ for x in range(10):
     #add term entry
     knowledge_base[term] = cumulative_list
 
-    #print(str(knowledge_base[term]) + '\n\n\n')
+    print(str(knowledge_base[term]) + '\n\n\n')
 
 #pickle dictionary for future use
 pickle.dump(knowledge_base, open('knowledge_base.p', 'wb'))
