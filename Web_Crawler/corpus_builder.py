@@ -9,11 +9,6 @@ from nltk.tokenize import word_tokenize
 from nltk.tokenize import sent_tokenize
 from nltk.probability import FreqDist
 
-#arg: n most important/frequent terms
-#lower-case, remove stopwords and punctuation, and use FreqDist
-#return a list of the words
-#TODO: def extract_important_terms(n):
-
 #helper to see if the text on a page is visible to the user
 def visible(element):
     if element.parent.name in ['style', 'script', '[document]', 'head', 'title']:
@@ -85,6 +80,3 @@ for link in soup.find_all('a'):
 
 #scrape texts from urls
 scrape_url_text(url_list)
-
-#TODO: get top n most important terms
-#TODO: send top 10 terms to some knowledge base, probably separate program (e.g. pickle dictionary, SQL)
