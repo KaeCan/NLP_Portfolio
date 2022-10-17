@@ -51,3 +51,8 @@ We use this scraped data and find the most common terms relating to our topic us
 Our knowledge base is a pickled dictionary prepared by associating the terms we've selected with all sentences related to their respective term (program [here](https://github.com/KaeCan/NLP_Portfolio/blob/main/Web_Crawler/knowledge_builder.py)).
 
 In the future, this dictionary will be used in the production of a basic chat bot.
+
+---
+## Sentence Syntax Overview
+
+A brief overview with my first experience and opinions on PSG, dependency parsing, and SRL. Click [here](https://github.com/KaeCan/NLP_Portfolio/blob/main/Sentence_Syntax.pdf)
