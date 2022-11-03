@@ -56,3 +56,8 @@ In the future, this dictionary will be used in the production of a basic chat bo
 ## Sentence Syntax Overview
 
 A brief overview with my first experience and opinions on PSG, dependency parsing, and SRL. Click [here](https://github.com/KaeCan/NLP_Portfolio/blob/main/Sentence_Syntax.pdf)
+
+---
+## Exploring SKLearn
+
+This is a Python notebook documenting my first experiences and attempts to use ML algorithms to solve the NLP task of author attribution. I demonstrate several different methods such as Naive Bayes, Logistic Regression, and Neural Networks. You can find the notebook [here](https://github.com/KaeCan/NLP_Portfolio/blob/main/Exploring_SKLearn.ipynb)
