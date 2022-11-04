@@ -12,7 +12,7 @@
     "context_set" : [""]
   },
   { "tag": "goodbye",
-    "patterns": ["bye", "see you later", "goodbye", "i'm leaving", ""],
+    "patterns": ["bye", "see you later", "goodbye", "i'm leaving"],
     "responses": ["Goodbye.", "See you next time."],
     "context_req": [""],
     "context_set" : [""]
@@ -24,7 +24,7 @@
     "context_set" : [""]
   },
   { "tag": "noanswer",
-    "patterns": [],
+    "patterns": [""],
     "responses": ["Do you have anything you would like to learn about?", "I can teach you about some stuff in Astronomy, would you like that?", "Are you interested in Astronomy?", "Want to learn more about Astronomy?"],
     "context_req": [""],
     "context_set" : ["topics"]

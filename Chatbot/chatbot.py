@@ -12,7 +12,7 @@ import pickle
 
 stopwords = set(stopwords.words('english'))
 user_name = ''
-context = [""] #determines what intents can be used
+context = []#determines what intents can be used
 bye = False
 
 class User:
@@ -57,6 +57,9 @@ def classify(sent):
 
 #determine the intent, then check down the list of intents for matching contexts, update context accordingly, respond with a random choice from the intent
 def response(sent):
+    global context
+    global bye
+
     results = classify(sent)
 
     if results: #matching/probably responses for input
@@ -68,7 +71,8 @@ def response(sent):
                     #if intent['context_filter'] != "" or (user in context and intent['context_filter'] == context[user]):
                     #    return print(random.choice(intent['responses']))
 
-                    if intent['context_req'] in context or intent['context_req'] == "":    #check if we have a valid context
+                    if intent['context_req'] in context or intent['context_req'] == [""]:    #check if we have a valid context
+                        print('current tag: ', intent['tag'])
                         context = intent['context_set']     #change/update the conversation's context
                         if intent['tag'] == 'goodbye':
                             bye = True
@@ -125,6 +129,7 @@ for user in user_list:
     if user_name in user.name:
         current_user = user #set the current user based off the user list
         welcome_back_user()
+        print('here')
         returning_user = True
         break
 
@@ -132,7 +137,6 @@ if not returning_user:
     current_user = User(user_name) #create a new user
     user_list.append(user)
     greet_user()
-
 
 while not bye:
     user_in = input('>>')
