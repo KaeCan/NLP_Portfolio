@@ -1,0 +1,47 @@
+{"intents": [
+  { "tag": "greeting",
+    "patterns": ["hi","hello","how are you","what's up","good day", "hola", "good day"],
+    "responses": ["Hellooo"],
+    "context_req": [""],
+    "context_set" : [""]
+  },
+  { "tag": "welcomeback",
+    "patterns": ["i am back", "did you miss me", "back"],
+    "responses": ["Welcome back!", "Good to see you again.", "Ready to learn more about Astronomy?", "Back so early!"],
+    "context_req": [""],
+    "context_set" : [""]
+  },
+  { "tag": "goodbye",
+    "patterns": ["bye", "see you later", "goodbye", "i'm leaving", ""],
+    "responses": ["Goodbye.", "See you next time."],
+    "context_req": [""],
+    "context_set" : [""]
+  },
+  { "tag": "thanks",
+    "patterns": ["thank you", "thanks"],
+    "responses": [],
+    "context_req": [""],
+    "context_set" : [""]
+  },
+  { "tag": "noanswer",
+    "patterns": [],
+    "responses": ["Do you have anything you would like to learn about?", "I can teach you about some stuff in Astronomy, would you like that?", "Are you interested in Astronomy?", "Want to learn more about Astronomy?"],
+    "context_req": [""],
+    "context_set" : ["topics"]
+  },
+  { "tag": "options",
+    "patterns": ["what do you do", "what can you do", "what do you know", "what can i learn", "teach me something"],
+    "responses": [],
+    "context_req": ["topics"],
+    "context_set" : ["topics"]
+  },
+  { "tag": "intro",
+      "patterns": ["what's your name", "what should i call you", "who are you", "what are you", "what do i call you"],
+      "responses": ["My name is Astrobot", "The name is Astrobot", "Astrobot!"],
+      "context_req": [""],
+      "context_set" : [""]
+  }
+
+]
+
+}
