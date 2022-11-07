@@ -6,42 +6,45 @@
     "context_set" : [""]
   },
   { "tag": "welcomeback",
-    "patterns": ["i am back", "did you miss me", "back"],
+    "patterns": ["i am back", "did you miss me", "back", "i've returned", "i have returned", "i back"],
     "responses": ["Welcome back!", "Good to see you again.", "Ready to learn more about Astronomy?", "Back so early!"],
     "context_req": [""],
     "context_set" : [""]
   },
   { "tag": "goodbye",
-    "patterns": ["bye", "see you later", "goodbye", "i'm leaving"],
+    "patterns": ["bye", "see you later", "goodbye", "i'm leaving", "bye bye", "good bye", "see you", "later"],
     "responses": ["Goodbye.", "See you next time."],
     "context_req": [""],
     "context_set" : [""]
   },
   { "tag": "thanks",
     "patterns": ["thank you", "thanks"],
-    "responses": [],
-    "context_req": [""],
+    "responses": ["No problem.", "My pleasure.", "Of course."],
+    "context_req": ["compliment"],
     "context_set" : [""]
   },
   { "tag": "noanswer",
-    "patterns": [""],
+    "patterns": ["", "teach me", "i want to learn", "tell me something", "say something", "uh", "idk", "teach me something", "uhm", "something"],
     "responses": ["Do you have anything you would like to learn about?", "I can teach you about some stuff in Astronomy, would you like that?", "Are you interested in Astronomy?", "Want to learn more about Astronomy?"],
     "context_req": [""],
-    "context_set" : ["topics"]
+    "context_set" : ["asktopics"]
   },
   { "tag": "options",
-    "patterns": ["what do you do", "what can you do", "what do you know", "what can i learn", "teach me something"],
-    "responses": [],
-    "context_req": ["topics"],
+    "patterns": ["yes", "sure", "okay", "what do you do", "what can you do", "what do you know", "what can i learn", "teach me something"],
+    "responses": ["blackholes", "galaxies"],
+    "context_req": ["asktopics"],
     "context_set" : ["topics"]
   },
   { "tag": "intro",
-      "patterns": ["what's your name", "what should i call you", "who are you", "what are you", "what do i call you"],
+      "patterns": ["what's your name", "what should i call you", "who are you", "what are you", "what do i call you", "what is your name", "tell me about yourself", "your name", "name"],
       "responses": ["My name is Astrobot", "The name is Astrobot", "Astrobot!"],
       "context_req": [""],
       "context_set" : [""]
+  },
+  { "tag": "galaxy",
+    "patterns": ["tell me more about galaxies", "what are galaxies", "what is a galaxy", "galaxies", "galaxy", "tell me about galaxies", "what galaxy", "what're galaxies", "teach me about galaxies"],
+    "responses": ["A galaxy is a large cluster of stars orbiting a central point, usually a supermassive blackhole."],
+    "context_req": ["topics"],
+    "context_set": ["topics", "galaxy", "compliment"]
   }
-
-]
-
-}
+]}

@@ -1,10 +1,9 @@
 import nltk
 from nltk.tokenize import word_tokenize
-from nltk.stem import WordNetLemmatizer
-from nltk.corpus import stopwords
-from nltk.tokenize.treebank import TreebankWordDetokenizer
+from nltk.stem.lancaster import LancasterStemmer
 import numpy
 import tflearn
+from nltk.corpus import stopwords
 import tensorflow
 import random
 import json
@@ -12,7 +11,7 @@ import pickle
 
 stopwords = set(stopwords.words('english'))
 user_name = ''
-context = []#determines what intents can be used
+context = ['']#determines what intents can be used
 bye = False
 
 class User:
@@ -21,13 +20,18 @@ class User:
         self.likes = []
         self.dislikes = []
 
-
+def matching_context(lst):
+    global context
+    for cntxt in lst:
+        if cntxt in context:
+            return True
+    return False
 #tokenize a sentence, then lemmatize and lowercase only letters and not stopwords
 def clean_sentence(sent):
     sent_words = word_tokenize(sent)
 
-    lemmatizer = WordNetLemmatizer()
-    sent_words = [lemmatizer.lemmatize(word.lower()) for word in sent_words if word.isalpha() and word not in stopwords]
+    stemmer = LancasterStemmer()
+    sent_words = [stemmer.stem(word.lower()) for word in sent_words if word.isalpha() and word not in stopwords]
 
     return sent_words
 
@@ -44,15 +48,17 @@ def bag_of_words(sent, words):
 
 #predict the intent using a bag of words, return a descending list of probable responses
 def classify(sent):
+    #print(f'sent: {sent}')
     err_margin = 0.25
 
-    results = model.predict([bag_of_words(sent,words)])[0]
-    results = [[i,r] for i,r in enumerate(results) if r > err_margin]
+    model_results = model.predict([bag_of_words(sent,words)])[0]
+    model_results = [[i,r] for i,r in enumerate(model_results) if r > err_margin]
 
-    results.sort(key=lambda x: x[1], reverse=True)
+    model_results.sort(key=lambda x: x[1], reverse=True)
     return_list = []
-    for result in results:
+    for result in model_results:
         return_list.append((classes[result[0]], result[1]))
+    print(f'return list: {return_list}')
     return return_list
 
 #determine the intent, then check down the list of intents for matching contexts, update context accordingly, respond with a random choice from the intent
@@ -60,26 +66,26 @@ def response(sent):
     global context
     global bye
 
-    results = classify(sent)
+    #print(f'current context: {context}')
+    response_results = classify(sent)
+    #print(f'response results: {response_results}')
+    if response_results: #matching/probably responses for input
+        while response_results: #each intent in the predicted results
+            for intent in intents['intents']:
+                if intent['tag'] == response_results[0][0]: #find the intent
+                    #print('intent',intent)
+                    #print('context_req: ',intent['context_req'])
 
-    if results: #matching/probably responses for input
-        while results:
-            for intent in intents['intents']: #each intent in the predicted results
-                if intent['tag'] == results[0][0]: #match the tag of the next top intent
-                    #if intent['context_filter'] in context:
-                    #    context[user] = intent['context_set']
-                    #if intent['context_filter'] != "" or (user in context and intent['context_filter'] == context[user]):
-                    #    return print(random.choice(intent['responses']))
-
-                    if intent['context_req'] in context or intent['context_req'] == [""]:    #check if we have a valid context
-                        print('current tag: ', intent['tag'])
+                    if matching_context(intent['context_req']) or intent['context_req'] == [""]:    #check if we have a valid context
+                        #print('current tag: ', intent['tag'])
                         context = intent['context_set']     #change/update the conversation's context
+                        #print(f'context set to: {context}')
                         if intent['tag'] == 'goodbye':
                             bye = True
                             pickle.dump(user_list, open('user_list.p', 'wb'))   #save user data before exiting
 
                         return print(random.choice(intent['responses']))    #print a random response for the intent
-            results.pop(0)
+            response_results.pop(0)
 
 def greet_user():
     #get greeting intent
@@ -121,15 +127,14 @@ user_list = pickle.load(open('user_list.p', 'rb'))
 
 #BEGIN conversation by asking for name
 print("May I ask for you name please?")
-user_name = input('>>')
+user_name = input('>>').lower()
 
 #check for a returning user
 returning_user = False
 for user in user_list:
-    if user_name in user.name:
+    if user_name == user.name.lower():
         current_user = user #set the current user based off the user list
         welcome_back_user()
-        print('here')
         returning_user = True
         break
 
