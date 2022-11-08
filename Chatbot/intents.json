@@ -25,13 +25,13 @@
   },
   { "tag": "noanswer",
     "patterns": ["", "teach me", "i want to learn", "tell me something", "say something", "uh", "idk", "teach me something", "uhm", "something"],
-    "responses": ["Do you have anything you would like to learn about?", "I can teach you about some stuff in Astronomy, would you like that?", "Are you interested in Astronomy?", "Want to learn more about Astronomy?"],
+    "responses": ["Sorry, I don't really understand. Do you have anything you would like to learn about?", "Didn't quite get that. I can teach you about some stuff in Astronomy, would you like that?", "Apologies, I don't understand. Are you interested in Astronomy?", "Sorry, I don't get what you're saying. Want to learn more about Astronomy?"],
     "context_req": [""],
     "context_set" : ["asktopics"]
   },
   { "tag": "options",
-    "patterns": ["yes", "sure", "okay", "what do you do", "what can you do", "what do you know", "what can i learn", "teach me something"],
-    "responses": ["blackholes", "galaxies"],
+    "patterns": ["yes", "sure", "okay", "what do you do", "what can you do", "what do you know", "what can i learn", "teach me something", "ok"],
+    "responses": ["I know a few terms related to Astronomy off the top of my head: magnetic, singularity, horizon, galaxies, interstellar, wormhole, gravastars, telescope, suns, shadow."],
     "context_req": ["asktopics"],
     "context_set" : ["topics"]
   },
@@ -40,11 +40,5 @@
       "responses": ["My name is Astrobot", "The name is Astrobot", "Astrobot!"],
       "context_req": [""],
       "context_set" : [""]
-  },
-  { "tag": "galaxy",
-    "patterns": ["tell me more about galaxies", "what are galaxies", "what is a galaxy", "galaxies", "galaxy", "tell me about galaxies", "what galaxy", "what're galaxies", "teach me about galaxies"],
-    "responses": ["A galaxy is a large cluster of stars orbiting a central point, usually a supermassive blackhole."],
-    "context_req": ["topics"],
-    "context_set": ["topics", "galaxy", "compliment"]
   }
 ]}

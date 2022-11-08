@@ -33,7 +33,7 @@ for intent in intents['intents']:
 
 #lemmatize and lowercase each word
 stemmer = LancasterStemmer()
-words = [stemmer.stem(pattern_words.lower()) for pattern_words in words if pattern_words not in ignore_punct and pattern_words not in stopwords]
+words = [stemmer.stem(pattern_words.lower()) for pattern_words in words if pattern_words not in ignore_punct]
 
 #remove duplicates
 words = sorted(set(words))
