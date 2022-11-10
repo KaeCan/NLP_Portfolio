@@ -20,7 +20,7 @@
   { "tag": "thanks",
     "patterns": ["thank you", "thanks"],
     "responses": ["No problem.", "My pleasure.", "Of course."],
-    "context_req": ["compliment"],
+    "context_req": [""],
     "context_set" : [""]
   },
   { "tag": "noanswer",
@@ -40,5 +40,19 @@
       "responses": ["My name is Astrobot", "The name is Astrobot", "Astrobot!"],
       "context_req": [""],
       "context_set" : [""]
-  }
+  },
+  {
+    "tag": "likes",
+    "patterns": ["what do i like", "what am i interested in", "what are my interests", "what do you know about me", "do you know what i like"],
+    "responses": ["I think you seem interested in the term "],
+    "context_req": [""],
+    "context_set": [""]
+  },
+   {
+     "tag": "dislikes",
+     "patterns": ["what do i not like", "what do i dislike", "what do i hate", "what don't i like", "what i don't like"],
+     "responses": ["I think you don't seem interested in the term "],
+     "context_req": [""],
+     "context_set": [""]
+   }
 ]}

@@ -11,6 +11,7 @@ import json
 import pickle
 import en_core_web_sm
 import os
+from tkinter import *
 
 stopwords = set(stopwords.words('english'))
 user_name = ''
@@ -31,6 +32,32 @@ class User:
         self.name = name
         self.likes = []
         self.dislikes = []
+
+current_user = User('default')
+
+def modify_likes(word, mode='append'):
+    global current_user
+
+    if mode == 'append':
+        current_user.likes.extend(word)
+        return True
+    if mode == 'remove':
+        if word in current_user.likes:
+            current_user.remove(word)
+            return True
+    return False
+
+def modify_dislikes(word, mode='append'):
+    global current_user
+
+    if mode == 'append':
+        current_user.dislikes.extend(word)
+        return True
+    if mode == 'remove':
+        if word in current_user.dislikes:
+            current_user.remove(word)
+            return True
+    return False
 
 #helper used to reverse the lemmatization of a word and find its corresponding key in the dictionary
 def get_lemma_index(lemma):
@@ -56,6 +83,10 @@ def matching_subj(sent):
         lemma_subj = lemmatizer.lemmatize(subj)
 
         if lemma_subj in lemma_terms:
+
+            #TODO: add the term to the user's likes, since they're interested in it
+
+
             #return a random sentence
             return random.choice(knowledge_base[get_lemma_index(lemma_subj)])
 
@@ -109,6 +140,7 @@ def classify(sent):
 def response(sent):
     global context
     global bye
+    global current_user
 
     #print(f'current context: {context}')
     response_results = classify(sent)
@@ -121,9 +153,10 @@ def response(sent):
 
                     #see if we can answer their question with our knowledge base
                     if subj_match != None:
-                        return print(subj_match)    #print a random sentence that has the subject in it
+                        return subj_match    #print a random sentence that has the subject in it
 
                     #TODO: use text sentiment analysis to see if we need to update user information
+                        #repond with something neutral like: 'ill keep that in mind' or 'i see'
 
                     #print('intent',intent)
                     #print('context_req: ',intent['context_req'])
@@ -133,28 +166,68 @@ def response(sent):
                         #print('current tag: ', intent['tag'])
                         context = intent['context_set']     #change/update the conversation's context
                         #print(f'context set to: {context}')
+                        rand_response = random.choice(intent['responses'])
+
+                        if intent['tag'] == 'likes':
+                            term = random.choice(current_user.likes)
+                            rand_response = rand_response + term
+
+                        if intent['tag'] == 'dislikes':
+                            term = random.choice(current_user.dislikes)
+                            rand_response = rand_response + term
 
                         #user indicates they want to exit
                         if intent['tag'] == 'goodbye':
                             bye = True
                             pickle.dump(user_list, open('user_list.p', 'wb'))   #save user data before exiting
 
-                        return print(random.choice(intent['responses']))    #print a random response for the intent
+                        return rand_response    #print a random response for the intent
             response_results.pop(0)
     else:
-        print('Sorry, I didn\'t understand that.')
+        return 'Sorry, I didn\'t understand that.'
 
 def greet_user():
     #get greeting intent
     for intent in intents['intents']:
         if intent['tag'] == 'greeting':
-            return print(random.choice(intent['responses']))
+            return random.choice(intent['responses'])
 
 def welcome_back_user():
     #get welcome back intent
     for intent in intents['intents']:
         if intent['tag'] == 'welcomeback':
-            return print(random.choice(intent['responses']))
+            return random.choice(intent['responses'])
+
+def ask_name():
+    return 'May I ask for your name please?'
+
+def is_exit():
+    global bye
+    return bye
+
+def get_username(user_name):
+    global current_user
+    global user_list
+
+    print(ask_name())
+    #user_name = input('>>').lower()
+
+    #check for a returning user
+    returning_user = False
+    for user in user_list:
+        if user_name == user.name.lower():
+            current_user = user #set the current user based off the user list
+            print(welcome_back_user())
+            returning_user = True
+            break
+
+    if not returning_user:
+        current_user = User(user_name) #create a new user
+        user_list.append(user)
+        print(greet_user())
+        return greet_user()
+
+    return welcome_back_user()
 
 #----Main----
 #open intents file
@@ -184,23 +257,62 @@ user_list = pickle.load(open('user_list.p', 'rb'))
 
 #BEGIN conversation by asking for name
 os.system('clear')
-print("May I ask for you name please?")
-user_name = input('>>').lower()
+debug = False
+if debug:
+    get_username()
 
-#check for a returning user
-returning_user = False
-for user in user_list:
-    if user_name == user.name.lower():
-        current_user = user #set the current user based off the user list
-        welcome_back_user()
-        returning_user = True
-        break
+    while not bye:
+        user_in = input('>>')
+        print(response(user_in))
 
-if not returning_user:
-    current_user = User(user_name) #create a new user
-    user_list.append(user)
-    greet_user()
 
-while not bye:
-    user_in = input('>>')
-    response(user_in)
+root = Tk()
+root.title("Chatbot")
+
+BG_GRAY = "#ABB2B9"
+BG_COLOR = "#17202A"
+TEXT_COLOR = "#EAECEE"
+
+FONT = "Helvetica 14"
+FONT_BOLD = "Helvetica 13 bold"
+
+#send function loop
+first_time = True
+def send():
+    global first_time
+
+    if first_time:
+        send = '>>' + e.get()
+        txt.insert(END, '\n' + send)
+        txt.insert(END, '\n' + get_username(e.get()))
+        e.delete(0, END)
+        first_time = False
+
+    else:
+        send = '>>' + e.get()
+        txt.insert(END, '\n' + send)
+        txt.insert(END, '\n' + response(e.get()))
+        e.delete(0, END)
+
+    #check for exit flag
+    if is_exit():
+        root.quit()
+
+lable1 = Label(root, bg=BG_COLOR, fg=TEXT_COLOR, text="Welcome", font=FONT_BOLD, pady=10, width=20, height=1).grid(row=0)
+
+txt = Text(root, bg=BG_COLOR, fg=TEXT_COLOR, font=FONT, width=60)
+txt.grid(row=1, column=0, columnspan=2)
+
+#scrollbar = Scrollbar(txt)
+#scrollbar.place(relheight=1, relx=0.974)
+
+e = Entry(root, bg="#2C3E50", fg=TEXT_COLOR, font=FONT, width=55)
+e.grid(row=2, column=0)
+
+send = Button(root, text="Send", font=FONT_BOLD, bg=BG_GRAY, command=send).grid(row=2, column=1)
+
+
+#BEGIN conversation
+
+txt.insert(END, '\n' + ask_name())
+root.mainloop()

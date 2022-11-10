@@ -33,7 +33,7 @@ for intent in intents['intents']:
 
 #lemmatize and lowercase each word
 stemmer = LancasterStemmer()
-words = [stemmer.stem(pattern_words.lower()) for pattern_words in words if pattern_words not in ignore_punct]
+words = [stemmer.stem(pattern_words.lower()) for pattern_words in words if pattern_words not in ignore_punct and pattern_words not in stopwords]
 
 #remove duplicates
 words = sorted(set(words))
@@ -53,7 +53,7 @@ for document in documents:
     bag_of_words = []
     pattern_words = document[0]
 
-    pattern_words = [stemmer.stem(word.lower()) for word in pattern_words]
+    pattern_words = [stemmer.stem(word.lower()) for word in pattern_words if word not in list(stopwords)]
 
     for word in words:
         if word in pattern_words:
@@ -83,7 +83,7 @@ net = tflearn.fully_connected(net, len(train_y[0]), activation = 'softmax')
 net = tflearn.regression(net)
 
 model = tflearn.DNN(net, tensorboard_dir='tflearn_logs')
-model.fit(train_x, train_y, n_epoch=1000, batch_size=8, show_metric=True)
+model.fit(train_x, train_y, n_epoch=1500, batch_size=8, show_metric=True)
 model.save('model.tflearn')
 
 pickle.dump({'words':words, 'classes':classes, 'train_x':train_x, 'train_y':train_y}, open("training_data", "wb"))
@@ -137,3 +137,7 @@ if (debug):
     classify('yes')
     classify('sure')
     classify('what can i learn')
+
+    while True:
+        user_in = input('>>')
+        classify(user_in)
