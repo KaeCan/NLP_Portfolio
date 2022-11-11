@@ -7,7 +7,7 @@ from nltk.corpus import stopwords
 import random
 import json
 import pickle
-import en_core_web_sm
+import spacy
 import os
 import sklearn
 from sklearn.neural_network import MLPClassifier
@@ -27,9 +27,10 @@ knowledge_base = pickle.load(open('knowledge_base.p', 'rb'))
 
 #lemmatized terms we know
 knowledge_terms = knowledge_base.keys()
-print(knowledge_terms)
+#print(knowledge_terms)
 
-sp = en_core_web_sm.load()
+
+sp = spacy.load("en_core_web_sm")
 
 class User:
     def __init__(self, name):
