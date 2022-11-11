@@ -2,14 +2,14 @@ import nltk
 from nltk.tokenize import word_tokenize
 from nltk.stem.lancaster import LancasterStemmer
 import numpy
-import tflearn
-import tensorflow
 import random
 import json
 import pickle
+import sklearn
 
 from nltk.corpus import stopwords
 stopwords = set(stopwords.words('english'))
+stopwords = stopwords - set(['no', 'not', 'can', 'are'])
 
 with open('../intents.json') as json_data:
     intents = json.load(json_data)
@@ -74,17 +74,13 @@ training = numpy.array(training)
 train_x = list(training[:,0])
 train_y = list(training[:,1])
 
-tensorflow.compat.v1.reset_default_graph()
+from sklearn.metrics import accuracy_score
+from sklearn.neural_network import MLPClassifier
 
-net = tflearn.input_data(shape=[None, len(train_x[0])])
-net = tflearn.fully_connected(net, 8)
-net = tflearn.fully_connected(net, 8)
-net = tflearn.fully_connected(net, len(train_y[0]), activation = 'softmax')
-net = tflearn.regression(net)
+neural = MLPClassifier(hidden_layer_sizes=(10,8), max_iter=10000)
+neural.fit(train_x, train_y)
 
-model = tflearn.DNN(net, tensorboard_dir='tflearn_logs')
-model.fit(train_x, train_y, n_epoch=1500, batch_size=8, show_metric=True)
-model.save('model.tflearn')
+pickle.dump(neural,open('sklearn_neural_model', 'wb'))
 
 pickle.dump({'words':words, 'classes':classes, 'train_x':train_x, 'train_y':train_y}, open("training_data", "wb"))
 
@@ -113,7 +109,7 @@ def classify(sent):
     print(f'sent: {sent}')
     err_margin = 0.25
 
-    model_results = model.predict([bag_of_words(sent,words)])[0]
+    model_results = neural.predict_proba([bag_of_words(sent,words)])[0]
     model_results = [[i,r] for i,r in enumerate(model_results) if r > err_margin]
 
     model_results.sort(key=lambda x: x[1], reverse=True)

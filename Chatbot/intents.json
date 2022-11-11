@@ -7,7 +7,7 @@
   },
   { "tag": "welcomeback",
     "patterns": ["i am back", "did you miss me", "back", "i've returned", "i have returned", "i back"],
-    "responses": ["Welcome back!", "Good to see you again.", "Ready to learn more about Astronomy?", "Back so early!"],
+    "responses": ["Welcome back!", "Good to see you again.", "Back so early!"],
     "context_req": [""],
     "context_set" : [""]
   },
@@ -43,16 +43,29 @@
   },
   {
     "tag": "likes",
-    "patterns": ["what do i like", "what am i interested in", "what are my interests", "what do you know about me", "do you know what i like"],
+    "patterns": ["what do i like", "what am i interested in", "what are my interests", "what do you know about me", "do you know what i like", "what do i love"],
     "responses": ["I think you seem interested in the term "],
     "context_req": [""],
     "context_set": [""]
   },
    {
      "tag": "dislikes",
-     "patterns": ["what do i not like", "what do i dislike", "what do i hate", "what don't i like", "what i don't like"],
+     "patterns": ["what do i not like", "what do i dislike", "what do i hate", "what don't i like", "what i don't like", "don't", "dont", "do not", "not"],
      "responses": ["I think you don't seem interested in the term "],
      "context_req": [""],
      "context_set": [""]
+   },
+   {
+     "tag": "otheroptions",
+     "patterns":["no","no i do not", "no i don't", "not really", "sorry", "nope", "nah"],
+     "responses":["You're missing out, just ask me to teach you!"],
+     "context_req":["asktopics"],
+     "context_set":[""]
+   },
+   { "tag": "options2",
+     "patterns": ["what do you do", "what can you do", "what do you know", "what can i learn", "teach me something"],
+     "responses": ["I know a few terms related to Astronomy off the top of my head: magnetic, singularity, horizon, galaxies, interstellar, wormhole, gravastars, telescope, suns, shadow."],
+     "context_req": [""],
+     "context_set" : ["topics"]
    }
 ]}

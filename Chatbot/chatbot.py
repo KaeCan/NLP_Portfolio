@@ -3,19 +3,21 @@ from nltk.tokenize import word_tokenize
 from nltk.stem.lancaster import LancasterStemmer
 from nltk.stem import WordNetLemmatizer
 import numpy
-import tflearn
 from nltk.corpus import stopwords
-import tensorflow
 import random
 import json
 import pickle
 import en_core_web_sm
 import os
+import sklearn
+from sklearn.neural_network import MLPClassifier
 from tkinter import *
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
+
 stopwords = set(stopwords.words('english'))
+stopwords = stopwords - set(['no', 'not', 'can', 'are'])
 user_name = ''
 context = ['']#determines what intents can be used
 bye = False
@@ -152,7 +154,7 @@ def classify(sent):
     #print(f'sent: {sent}')
     err_margin = 0.25
 
-    model_results = model.predict([bag_of_words(sent,words)])[0]
+    model_results = model.predict_proba([bag_of_words(sent,words)])[0]
     model_results = [[i,r] for i,r in enumerate(model_results) if r > err_margin]
 
     model_results.sort(key=lambda x: x[1], reverse=True)
@@ -175,18 +177,21 @@ def response(sent):
         while response_results: #each intent in the predicted results
             for intent in intents['intents']:
                 if intent['tag'] == response_results[0][0]: #find the intent
-                    print(f'len(get_subj): {len(get_subjs(sent))}')
-                    print(f'matching_subj(sent): {matching_subj(sent)}')
+
+                    #print(f'len(get_subj): {len(get_subjs(sent))}')
+                    #print(f'matching_subj(sent): {matching_subj(sent)}')
                     if sentiment_scores(sent) == 'Positive' and len(get_subjs(sent)) > 0 and matching_subj(sent) != None:
-                        print('pos')
+                        #print('pos')
                         lemma = get_last_subj(sent)
                         modify_likes(lemma, mode='append')
                         return 'That\'s great to hear!'
+
                     elif sentiment_scores(sent) == 'Negative' and len(get_subjs(sent)) > 0 and matching_subj(sent) != None:
                         print('neg')
                         lemma = get_last_subj(sent)
                         modify_dislikes(lemma, mode='append')
                         return 'That\'s really unfortunate.'
+
                     else:
                         subj_match = matching_subj(sent)
 
@@ -218,6 +223,10 @@ def response(sent):
                                 pickle.dump(user_list, open('user_list.p', 'wb'))   #save user data before exiting
 
                             return rand_response    #print a random response for the intent
+                        else:
+                            for intent in intents['intents']:
+                                if intent['tag'] == 'noanswer':
+                                    return random.choice(intent['responses'])
 
             response_results.pop(0)
     else:
@@ -278,16 +287,8 @@ classes = data['classes']
 train_x = data['train_x']
 train_y = data['train_y']
 
-#set up neural network
-net = tflearn.input_data(shape=[None, len(train_x[0])])
-net = tflearn.fully_connected(net, 8)
-net = tflearn.fully_connected(net, 8)
-net = tflearn.fully_connected(net, len(train_y[0]), activation = 'softmax')
-net = tflearn.regression(net)
-
-model = tflearn.DNN(net)
 #load model
-model.load('model/model.tflearn')
+model = pickle.load(open('model/sklearn_neural_model', 'rb'))
 
 #load users
 user_list = pickle.load(open('user_list.p', 'rb'))
@@ -335,7 +336,7 @@ def send():
     if is_exit():
         root.quit()
 
-lable1 = Label(root, bg=BG_COLOR, fg=TEXT_COLOR, text="LIGMA", font=FONT_BOLD, pady=10, width=20, height=1).grid(row=0)
+lable1 = Label(root, bg=BG_COLOR, fg=TEXT_COLOR, text="Astro", font=FONT_BOLD, pady=10, width=20, height=1).grid(row=0)
 
 txt = Text(root, bg=BG_COLOR, fg=TEXT_COLOR, font=FONT, width=60)
 txt.grid(row=1, column=0, columnspan=2)
@@ -350,6 +351,5 @@ send = Button(root, text="Send", font=FONT_BOLD, bg=BG_GRAY, command=send).grid(
 
 
 #BEGIN conversation
-
 txt.insert(END, '\n' + ask_name())
 root.mainloop()
