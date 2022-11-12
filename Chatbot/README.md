@@ -1,5 +1,7 @@
 # How to run our chatbot
 
+**Note: this project was completed using Python 3.10.0**
+
 1. Download and extract the Chatbot zip file [here](https://github.com/KaeCan/NLP_Portfolio/blob/main/ChatbotZip.zip).
 
 2. In a terminal, run this command:
