@@ -1,4 +1,4 @@
-#How to run our chatbot
+# How to run our chatbot
 
 1. Download and extract the Chatbot zip file [here](https://github.com/KaeCan/NLP_Portfolio/blob/main/ChatbotZip.zip).
 

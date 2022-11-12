@@ -31,7 +31,7 @@ for intent in intents['intents']:
         if intent['tag'] not in classes:
             classes.append(intent['tag'])
 
-#lemmatize and lowercase each word
+#stem and lowercase each word
 stemmer = LancasterStemmer()
 words = [stemmer.stem(pattern_words.lower()) for pattern_words in words if pattern_words not in ignore_punct and pattern_words not in stopwords]
 

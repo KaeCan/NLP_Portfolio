@@ -67,7 +67,16 @@ This is a Python notebook documenting my first experiences and attempts to use M
 
 A basic chatbot with limited conversational skills that aims to answer simple questions about Astronomy and terms related to black holes. The files may be found [here](https://github.com/KaeCan/NLP_Portfolio/tree/main/Chatbot).
 
-Modules:
+Concepts:
+- Input parsing
+- Web crawling (earlier project)
+- Neural Networks
+- Stop words
+- Stemming
+- Lemmatization
+- Sentiment Analysis
+
+Notable Modules:
 - NLTK (NLP)
 - numpy (computation)
 - pandas (data structuring)
@@ -76,7 +85,7 @@ Modules:
 - sklearn (neural networks)
 - tkinter (GUI)
 
-#How to run our chatbot
+### How to run our chatbot
 
 1. Download and extract the Chatbot zip file [here](https://github.com/KaeCan/NLP_Portfolio/blob/main/ChatbotZip.zip).
 
