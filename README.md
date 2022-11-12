@@ -75,6 +75,7 @@ Concepts:
 - Stemming
 - Lemmatization
 - Sentiment Analysis
+- Dependency parsing
 
 Notable Modules:
 - NLTK (NLP)
