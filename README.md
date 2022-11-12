@@ -78,7 +78,7 @@ Concepts:
 - Dependency parsing
 
 Notable Modules:
-- NLTK (NLP)
+- nltk (NLP)
 - numpy (computation)
 - pandas (data structuring)
 - json (data storage)
