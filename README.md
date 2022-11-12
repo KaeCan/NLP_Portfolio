@@ -65,7 +65,7 @@ This is a Python notebook documenting my first experiences and attempts to use M
 ---
 ## Chatbot
 
-A basic chatbot with limited conversational skills that aims to answer simple questions about Astronomy and terms related to black holes. The files may be found [here](https://github.com/KaeCan/NLP_Portfolio/tree/main/Chatbot)
+A basic chatbot with limited conversational skills that aims to answer simple questions about Astronomy and terms related to black holes. The files may be found [here](https://github.com/KaeCan/NLP_Portfolio/tree/main/Chatbot).
 
 Modules and skills used:
 - NLTK (NLP)
