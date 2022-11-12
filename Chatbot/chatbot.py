@@ -231,12 +231,13 @@ def response(sent):
 
                             return rand_response    #print a random response for the intent
 
-                        else:   #there are matching intents, but we do not have any valid contexts
-                            for intent in intents['intents']:
-                                if intent['tag'] == 'noanswer':
-                                    return random.choice(intent['responses'])
-
             response_results.pop(0) #no context match for current intent, go next
+
+        #there are matching intents, but we do not have any valid contexts
+        for intent in intents['intents']:
+            if intent['tag'] == 'noanswer':
+                return random.choice(intent['responses'])
+
     else:   #no matching intents within error margin
         return 'Sorry, I didn\'t understand that.'
 
