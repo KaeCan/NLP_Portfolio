@@ -17,20 +17,20 @@ from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
 
 stopwords = set(stopwords.words('english'))
-stopwords = stopwords - set(['no', 'not', 'can', 'are'])
-user_name = ''
-context = ['']#determines what intents can be used
-bye = False
+stopwords = stopwords - set(['no', 'not', 'can', 'are'])    #we consider these words to be still relevant
+user_name = ''  #global
+context = ['']  #determines what intents can be used; global
+bye = False #global
 lemmatizer = WordNetLemmatizer()
 
+#dictionary {word: sentences with the word in it}
 knowledge_base = pickle.load(open('knowledge_base.p', 'rb'))
 
 #lemmatized terms we know
 knowledge_terms = knowledge_base.keys()
 #print(knowledge_terms)
 
-
-sp = spacy.load("en_core_web_sm")
+sp = spacy.load("en_core_web_sm") #nlp for dependency parsing
 
 class User:
     def __init__(self, name):
@@ -38,12 +38,13 @@ class User:
         self.likes = []
         self.dislikes = []
 
-current_user = User('default')
+current_user = User('default')  #global
 
 def modify_likes(word, mode='append'):
     global current_user
 
     if mode == 'append' and word not in current_user.likes:
+        #remove from dislikes as needed and add to likes
         modify_dislikes(word, mode='remove')
         current_user.likes.append(word)
         return True
@@ -57,12 +58,14 @@ def modify_dislikes(word, mode='append'):
     global current_user
 
     if mode == 'append' and word not in current_user.dislikes:
+        #remove from likes as needed and add to dislikes
         modify_likes(word, mode='remove')
         current_user.dislikes.append(word)
         return True
     if mode == 'remove' and word in current_user.dislikes:
         current_user.dislikes.remove(word)
         return True
+
     return False
 
 #helper used to reverse the lemmatization of a word and find its corresponding key in the dictionary
@@ -71,20 +74,23 @@ def get_lemma_index(lemma):
         if lemmatizer.lemmatize(term) == lemma:
             return term
 
+#returns objects or subjects of a sentence
 def get_subjs(sent):
-    #retrieve words whose dependencies indicate being the subject of something
+
     labels = ['nsubj', 'csubj', 'nsubjpass', 'pobj', 'acomp', 'dobj']
     doc = sp(sent)
     subj_tokens = [token.text for token in doc if token.dep_ in labels]
 
-    subj_tokens.reverse()   #the term we're looking is probably towards the end of the sentence, so put it first in line
+    subj_tokens.reverse()   #the term we're looking for is probably towards the end of the sentence, so put it first in line
     return subj_tokens
 
+#get one subject from the list of possble subjects/objects of a sentence
 def get_last_subj(sent):
     tokens = get_subjs(sent)
     lemma = tokens[0]   #extract only first subject in the list
     return lemma
 
+#use VADER to return sentence-level sentiment score
 def sentiment_scores(sentence):
      sid_obj = SentimentIntensityAnalyzer()
      sentiment_dict = sid_obj.polarity_scores(sentence)
@@ -112,10 +118,6 @@ def matching_subj(sent):
         lemma_subj = lemmatizer.lemmatize(subj)
         print('lemma', lemma_subj)
         if lemma_subj in lemma_terms:
-
-            #TODO: add the term to the user's likes, since they're interested in it
-
-
             #return a random sentence
             return random.choice(knowledge_base[get_lemma_index(lemma_subj)])
 
@@ -181,6 +183,8 @@ def response(sent):
 
                     #print(f'len(get_subj): {len(get_subjs(sent))}')
                     #print(f'matching_subj(sent): {matching_subj(sent)}')
+
+                    #check for strong sentiments of words in our knowledge base before defaulting to using knowledge base and intents
                     if sentiment_scores(sent) == 'Positive' and len(get_subjs(sent)) > 0 and matching_subj(sent) != None:
                         #print('pos')
                         lemma = get_last_subj(sent)
@@ -188,7 +192,7 @@ def response(sent):
                         return 'That\'s great to hear!'
 
                     elif sentiment_scores(sent) == 'Negative' and len(get_subjs(sent)) > 0 and matching_subj(sent) != None:
-                        print('neg')
+                        #print('neg')
                         lemma = get_last_subj(sent)
                         modify_dislikes(lemma, mode='append')
                         return 'That\'s really unfortunate.'
@@ -208,13 +212,15 @@ def response(sent):
                             #print('current tag: ', intent['tag'])
                             context = intent['context_set']     #change/update the conversation's context
                             #print(f'context set to: {context}')
-                            rand_response = random.choice(intent['responses'])
+                            rand_response = random.choice(intent['responses'])  #prepare a corresponding random response
 
                             if intent['tag'] == 'likes':
+                                #retrieve a random term the user likes and concatenate to response
                                 term = random.choice(current_user.likes)
                                 rand_response = rand_response + term
 
                             if intent['tag'] == 'dislikes':
+                                #retrieve a random term the user dislikes and concatenate to response
                                 term = random.choice(current_user.dislikes)
                                 rand_response = rand_response + term
 
@@ -224,13 +230,14 @@ def response(sent):
                                 pickle.dump(user_list, open('user_list.p', 'wb'))   #save user data before exiting
 
                             return rand_response    #print a random response for the intent
-                        else:
+
+                        else:   #there are matching intents, but we do not have any valid contexts
                             for intent in intents['intents']:
                                 if intent['tag'] == 'noanswer':
                                     return random.choice(intent['responses'])
 
-            response_results.pop(0)
-    else:
+            response_results.pop(0) #no context match for current intent, go next
+    else:   #no matching intents within error margin
         return 'Sorry, I didn\'t understand that.'
 
 def greet_user():
@@ -252,6 +259,7 @@ def is_exit():
     global bye
     return bye
 
+#routine to start off the conversation before main loop
 def get_username(user_name):
     global current_user
     global user_list
@@ -303,8 +311,9 @@ if debug:
     while not bye:
         user_in = input('>>')
         print(response(user_in))
+    quit()
 
-
+#create gui for chatbot
 root = Tk()
 root.title("Chatbot")
 
@@ -337,7 +346,8 @@ def send():
     if is_exit():
         root.quit()
 
-lable1 = Label(root, bg=BG_COLOR, fg=TEXT_COLOR, text="Astro", font=FONT_BOLD, pady=10, width=20, height=1).grid(row=0)
+#gui elements
+lable1 = Label(root, bg=BG_COLOR, fg=TEXT_COLOR, text="Astrobot", font=FONT_BOLD, pady=10, width=20, height=1).grid(row=0)
 
 txt = Text(root, bg=BG_COLOR, fg=TEXT_COLOR, font=FONT, width=60)
 txt.grid(row=1, column=0, columnspan=2)
@@ -351,6 +361,6 @@ e.grid(row=2, column=0)
 send = Button(root, text="Send", font=FONT_BOLD, bg=BG_GRAY, command=send).grid(row=2, column=1)
 
 
-#BEGIN conversation
+#main conversation loop
 txt.insert(END, '\n' + ask_name())
 root.mainloop()
