@@ -78,11 +78,12 @@ Concepts:
 - Dependency parsing
 
 Notable Modules:
-- nltk (NLP)
+- nltk (general NLP)
 - numpy (computation)
 - pandas (data structuring)
 - json (data storage)
-- spacy (NLP)
+- spacy (dependency parsing)
+- VADER (sentiment analysis)
 - sklearn (neural networks)
 - tkinter (GUI)
 
