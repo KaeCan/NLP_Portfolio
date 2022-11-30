@@ -12,7 +12,7 @@ You may need to also install an additional spaCy dependency:
 ~~~
 python -m spacy download en_core_web_sm
 ~~~
-There may be other dependencies required, such as in nltk.
+There may be other dependencies required, such as in nltk. You may use [this](https://github.com/KaeCan/NLP_Portfolio/blob/main/Chatbot/nltk_deps.py) to help you install the correct dependencies.
 
 3. **If you do not wish to modify the chatbot's model or user models, skip to step 5**. Otherwise, you can create a new model using
 [sklearn_model.py](https://github.com/KaeCan/NLP_Portfolio/blob/main/Chatbot/model/sklearn_model.py) (or our discarded [tensorflow_model.py](https://github.com/KaeCan/NLP_Portfolio/blob/main/Chatbot/model/tensorflow_model.py), but you must manually install the required dependencies)
