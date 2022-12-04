@@ -127,3 +127,8 @@ located in the 'model' folder.
 4. If you wish to ever reset or modify the starting user models, run [user_seed.py](https://github.com/KaeCan/NLP_Portfolio/blob/main/Chatbot/user_seed.py)
 
 5. Run [chatbot.py](https://github.com/KaeCan/NLP_Portfolio/blob/main/Chatbot/chatbot.py)
+
+---
+
+## Text Classification
+My first experiences with text classification and various models related to it. We used a data set from Kaggle involving tweets related to COVID-19 and attempt to predict their sentiments with respect to the subject. We have both a [notebook](https://github.com/KaeCan/NLP_Portfolio/blob/main/Exploring_Text_Classification.ipynb) and a [summary](https://github.com/KaeCan/NLP_Portfolio/blob/main/Text_Classification_Summary.pdf).
